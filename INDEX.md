@@ -5,6 +5,8 @@ A complete map of all content in this knowledge base, organized by category.
 <!-- BEGIN GENERATED: master-index — maintained by build-structure; do not edit by hand -->
 ## Political Events
 - [Articles of Confederation](politics/articles-of-confederation.md) — First formal governing compact of the thirteen United States, adopted November 15, 1777
+- [Flag Resolution — Stars and Stripes](politics/flag-resolution.md) — Continental Congress resolution establishing the Stars and Stripes, June 14, 1777
+- [Vermont Constitution](politics/vermont-constitution.md) — First North American constitution to ban adult slavery and grant universal male suffrage, July 8, 1777
 - → [politics/index.md](politics/index.md) — full category index
 
 ## Military Events
@@ -25,7 +27,7 @@ A complete map of all content in this knowledge base, organized by category.
 - → [economics/index.md](economics/index.md) — full category index
 
 ## Key Figures
-*(No dedicated files yet)*
+- [Carl Friedrich Gauss](people/carl-friedrich-gauss.md) — Mathematician born April 30, 1777; later made foundational contributions to number theory, algebra, geometry, and physics
 - → [people/index.md](people/index.md) — full category index
 
 ---

@@ -5,9 +5,9 @@ A chronological index of notable events, people, and works of the year 1777.
 <!-- BEGIN GENERATED: timeline — maintained by build-structure; do not edit by hand -->
 | Date | Event | Category | Source |
 |---|---|---|---|
-| April 30, 1777 | Carl Friedrich Gauss born in Brunswick | Key Figures | [README](README.md) |
-| June 14, 1777 | Flag Resolution — Stars and Stripes adopted | Political Events | [README](README.md) |
-| July 8, 1777 | Vermont Constitution adopted | Political Events | [README](README.md) |
+| April 30, 1777 | Carl Friedrich Gauss born in Brunswick | Key Figures | [Carl Friedrich Gauss](people/carl-friedrich-gauss.md) |
+| June 14, 1777 | Flag Resolution — Stars and Stripes adopted | Political Events | [Flag Resolution](politics/flag-resolution.md) |
+| July 8, 1777 | Vermont Constitution adopted | Political Events | [Vermont Constitution](politics/vermont-constitution.md) |
 | September 11, 1777 | Battle of Brandywine | Military Events | [README](README.md) |
 | September 19, 1777 | Battle of Freeman's Farm (First Battle of Saratoga) | Military Events | [Battles of Saratoga](military/battles-of-saratoga.md) |
 | September 26, 1777 | British forces occupy Philadelphia | Military Events | [README](README.md) |

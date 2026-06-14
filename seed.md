@@ -87,21 +87,24 @@ This repository is simultaneously:
 
 | Category | Slug | README rows | Dedicated files |
 |---|---|---|---|
-| Political Events | politics | 2 | 1 |
-| Military Events | military | 3 | 2 |
-| Science & Discovery | science | 1 | 0 |
+| Political Events | politics | 3 | 3 |
+| Military Events | military | 4 | 2 |
+| Science & Discovery | science | 0 | 0 |
 | Arts & Culture | arts | 1 | 0 |
-| Economics & Trade | economics | 1 | 0 |
-| Key Figures | people | 1 | 0 |
+| Economics & Trade | economics | 0 | 0 |
+| Key Figures | people | 1 | 1 |
 
 **Total README rows**: 9
-**Total dedicated topic files**: 3
+**Total dedicated topic files**: 6
 
 ### Dedicated topic files
 
 - `politics/articles-of-confederation.md` — Articles of Confederation (November 15, 1777)
+- `politics/flag-resolution.md` — Flag Resolution — Stars and Stripes (June 14, 1777)
+- `politics/vermont-constitution.md` — Vermont Constitution (July 8, 1777)
 - `military/battles-of-saratoga.md` — Battles of Saratoga (September 19 – October 17, 1777)
 - `military/valley-forge.md` — Valley Forge Encampment (December 19, 1777 – June 19, 1778)
+- `people/carl-friedrich-gauss.md` — Carl Friedrich Gauss (born April 30, 1777)
 
 ---
 
@@ -111,12 +114,13 @@ This repository is simultaneously:
 |---|---|
 | `TIMELINE.md` | ✓ generated |
 | `INDEX.md` | ✓ generated |
-| `politics/index.md` | ✓ generated |
-| `military/index.md` | ✓ generated |
+| `politics/index.md` | ✓ generated (3 topic files) |
+| `military/index.md` | ✓ generated (2 topic files) |
 | `science/index.md` | ✓ generated (stub — no topic files yet) |
 | `arts/index.md` | ✓ generated (stub — no topic files yet) |
 | `economics/index.md` | ✓ generated (stub — no topic files yet) |
-| `people/index.md` | ✓ generated (stub — no topic files yet) |
+| `people/index.md` | ✓ generated (1 topic file) |
+| Cross-references | ✓ generated in all 6 topic files |
 
 ---
 
@@ -183,3 +187,30 @@ Ran build-structure: generated TIMELINE.md, INDEX.md, all 6 category index pages
 Ran sync-seed: Section 4 updated (0→3 dedicated files); Section 5 updated (all artifacts now ✓ generated)
 
 **Outcome**: 3 dedicated topic files created; 9 README rows (3 linked); total dedicated files: 3; generation_ticks: 1
+
+---
+
+### G1-T2 — 2026-06-14 — Tick 2: Flag Resolution, Vermont Constitution, Carl Friedrich Gauss
+
+**Model**: claude-sonnet-4-6
+**Action**: Growth tick 2 — second content expansion of the 1777 knowledge base
+
+Ran check-lifecycle: decided `grow` (generation_ticks=1/3, lineage=2/7)
+Ran plan-roadmap: confirmed 3 Now items (Flag Resolution, Vermont Constitution, Carl Friedrich Gauss); all were README rows lacking dedicated files, filling politics and people coverage gaps
+
+Ran Curator subagent: researched and authored all 3 dedicated topic files with ≥2 authoritative sources each; updated README.md table links and ROADMAP.md
+
+- Created `politics/flag-resolution.md`: June 14 1777 Flag Resolution; Stars and Stripes text; Betsy Ross legend vs. Francis Hopkinson documentary evidence; national symbol significance
+- Created `politics/vermont-constitution.md`: Windsor Convention July 2–8 1777; first anti-slavery constitution in North America; universal male suffrage; anticipates federal Bill of Rights
+- Created `people/carl-friedrich-gauss.md`: Born April 30 1777 in Brunswick; working-class family; Duke of Brunswick patron; foundational contributions to number theory, algebra, geometry, physics
+- Updated `README.md`: 3 knowledge-table rows now link to dedicated files (Flag Resolution, Vermont Constitution, Carl Friedrich Gauss)
+- Updated `ROADMAP.md`: 3 items moved from Now to Done; Now section empty; Backlog retains Battle of Brandywine, Mozart 1777, structure items
+
+Ran build-structure: updated politics/index.md (+2 entries), people/index.md (stub→1 entry), TIMELINE.md (3 source links updated to dedicated files), INDEX.md (3 new entries), cross-references updated/added in all 6 topic files
+Ran sync-seed: Section 4 updated (3→6 dedicated files; politics 2→3 rows/1→3 files; military 3→4 rows; science/economics corrected to 0 rows; people 0→1 file); Section 5 updated (people/index.md now has 1 topic file; cross-refs noted for all 6 files)
+
+**Outcome**: 3 dedicated topic files created; 9 README rows (6 linked, 3 unlinked); total dedicated files: 6; generation_ticks: 2
+
+### G1-T3 — 2026-06-14 — Tick 3: growth tick (published by safety net)
+**Action**: Content/structure work published by the workflow safety net; the agent ended before publish-session.
+**Outcome**: Changes committed in this commit; titled "Tick N" so check-lifecycle counts it toward replant.

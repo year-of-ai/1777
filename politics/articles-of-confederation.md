@@ -27,4 +27,6 @@ The Articles of Confederation represented the first attempt by the thirteen stat
 
 - [Battles of Saratoga](../military/battles-of-saratoga.md) — American military victory in October 1777 that raised confidence as the Articles were finalized
 - [Valley Forge Encampment](../military/valley-forge.md) — winter encampment exposing the Continental Army to the Articles' structural weaknesses in supplying an army
+- [Flag Resolution — Stars and Stripes](flag-resolution.md) — another foundational act of the Continental Congress in 1777, establishing the national flag
+- [Vermont Constitution](vermont-constitution.md) — parallel political document of 1777: the first state constitution to prohibit adult slavery
 <!-- END GENERATED: crossrefs -->

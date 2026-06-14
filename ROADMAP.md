@@ -3,10 +3,6 @@
 
 ## Now
 
-- [ ] **Flag Resolution** `content` — `politics/flag-resolution.md` — June 14 1777 Stars and Stripes resolution; Betsy Ross legend vs. historical record. _(politics)_
-- [ ] **Vermont Constitution** `content` — `politics/vermont-constitution.md` — first anti-slavery constitution in North America; universal male suffrage. _(politics)_
-- [ ] **Carl Friedrich Gauss** `content` — `people/carl-friedrich-gauss.md` — birth April 30 1777; early life; eventual mathematical contributions. _(people)_
-
 ## Backlog
 - [ ] **Battle of Brandywine** `content` — `military/battle-of-brandywine.md` — September 11 1777; Howe outflanks Washington; road to Philadelphia. _(military)_
 - [ ] **Mozart 1777** `content` — `arts/mozart-1777.md` — Piano Concerto No. 9 K. 271; journey to Mannheim and Paris; Maria Anna Weber. _(arts)_
@@ -21,6 +17,9 @@
 - [x] **Battles of Saratoga** `content` — `military/battles-of-saratoga.md` — Freeman's Farm and Bemis Heights; Burgoyne's surrender; French alliance trigger. _(2026-06-14)_
 - [x] **Articles of Confederation** `content` — `politics/articles-of-confederation.md` — drafting, adoption by Congress Nov 15 1777, ratification process. _(2026-06-14)_
 - [x] **Valley Forge** `content` — `military/valley-forge.md` — encampment Dec 1777–June 1778, Baron von Steuben's training, Washington's leadership. _(2026-06-14)_
+- [x] **Flag Resolution** `content` — `politics/flag-resolution.md` — June 14 1777 Stars and Stripes resolution; Betsy Ross legend vs. historical record. _(2026-06-14)_
+- [x] **Vermont Constitution** `content` — `politics/vermont-constitution.md` — first anti-slavery constitution in North America; universal male suffrage. _(2026-06-14)_
+- [x] **Carl Friedrich Gauss** `content` — `people/carl-friedrich-gauss.md` — birth April 30 1777; early life; mathematical contributions. _(2026-06-14)_
 
 ## Ideas
 

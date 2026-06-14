@@ -28,4 +28,5 @@ Valley Forge transformed the Continental Army from a force struggling with incon
 
 - [Battles of Saratoga](battles-of-saratoga.md) — American victory in autumn 1777 that preceded the Valley Forge encampment
 - [Articles of Confederation](../politics/articles-of-confederation.md) — governing compact adopted November 15, 1777, as Washington's army prepared for the winter march to Valley Forge
+- [Flag Resolution — Stars and Stripes](../politics/flag-resolution.md) — national emblem established June 14, 1777, before the campaign season that ended at Valley Forge
 <!-- END GENERATED: crossrefs -->

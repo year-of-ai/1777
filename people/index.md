@@ -3,5 +3,7 @@
 Notable individuals who shaped the year 1777.
 
 <!-- BEGIN GENERATED: category-index — maintained by build-structure; do not edit by hand -->
-*No dedicated topic files yet — see [ROADMAP.md](../ROADMAP.md) for planned entries.*
+| Topic | Description |
+|---|---|
+| [Carl Friedrich Gauss](carl-friedrich-gauss.md) | Mathematician born April 30 1777 in Brunswick; later established foundational contributions to number theory, algebra, geometry, and physics. |
 <!-- END GENERATED: category-index -->
