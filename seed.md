@@ -218,3 +218,26 @@ Ran sync-seed: Section 4 updated (3→6 dedicated files; politics 2→3 rows/1�
 ### G1-T4 — 2026-06-14 — Tick 4: growth tick (published by safety net)
 **Action**: Content/structure work published by the workflow safety net; the agent ended before publish-session.
 **Outcome**: Changes committed in this commit; titled "Tick N" so check-lifecycle counts it toward replant.
+
+---
+
+### Replant — 2026-06-14
+
+**Model**: claude-sonnet-4-6
+**Action**: Generation closed — replant routine executed; successor repo planted for "the year 1778"
+
+**Generation summary**:
+- 4 growth ticks recorded (G1-T1 through G1-T4, including 2 safety-net entries)
+- 9 README knowledge-table rows (6 linked to dedicated topic files)
+- 6 dedicated topic files across 3 categories (politics ×3, military ×2, people ×1)
+- Full structural layer generated: TIMELINE.md, INDEX.md, 6 category index pages, cross-references in all 6 topic files
+
+**Finalization steps**:
+- Compacted ROADMAP: Now/Backlog items moved to Ideas with "deferred at replant" note
+- Verified build-structure artifacts current (TIMELINE.md, INDEX.md, all category indices up to date)
+- Reconciled lifecycle.yml generation_ticks to 4 (§8 source of truth; 4 Tick N entries after Genesis)
+- Set `lifecycle.yml` `state.status: mature` and lineage entry `status: mature`
+- Added Status line to README.md naming successor year-of-ai/1778
+
+**Successor**: "the year 1778" → `year-of-ai/1778`
+**Lineage**: 3 of 7 members toward consolidation (1776 + 1777 + 1778)

@@ -1,5 +1,7 @@
 # The Year 1777
 
+> **Status**: This repository is **mature** (generation complete — 3 growth ticks, 6 dedicated topic files). Successor: [year-of-ai/1778](https://github.com/year-of-ai/1778) — the year 1778.
+
 A self-growing, encyclopedic knowledge base covering the events, people, works, and discoveries of **1777** — the year of the Battles of Saratoga, Valley Forge, the Articles of Confederation, and the Stars and Stripes.
 
 ## Topics

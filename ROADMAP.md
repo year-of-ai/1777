@@ -17,6 +17,9 @@
 
 ## Ideas
 
+- Battle of Brandywine — September 11 1777; Howe outflanks Washington; road to Philadelphia. _(deferred at replant)_
+- Mozart 1777 — Piano Concerto No. 9 K. 271; journey to Mannheim and Paris; Maria Anna Weber. _(deferred at replant)_
+- Evolve audit — Run `/evolve` to review and improve the `.github/` customization layer. _(deferred at replant)_
 - Marquis de Lafayette's role in 1777 (`people`)
 - Baron von Steuben at Valley Forge (`people`)
 - General Burgoyne's campaign strategy (`military`)

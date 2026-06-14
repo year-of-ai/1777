@@ -24,11 +24,11 @@ lifecycle:
     distill_at_members: 3
 
   state:
-    status: growing
+    status: mature
     distilled_at: null
     granularity: "year"
     next_lineage_planted: null
-    generation_ticks: 3
+    generation_ticks: 4
     # The consolidated repo that planted this lineage (NOT counted toward consolidation).
     origin: "year-of-ai/2005-2011"
     lineage:
@@ -38,5 +38,5 @@ lifecycle:
         spawned_from: "year-of-ai/2005-2011"
       - subject: "the year 1777"
         repo: "year-of-ai/1777"
-        status: growing
+        status: mature
         spawned_from: "year-of-ai/1776"
