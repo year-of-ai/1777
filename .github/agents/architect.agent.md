@@ -54,7 +54,7 @@ table rows, all links resolve, dedicated files have required frontmatter.
 
 ### 5 — Record
 - Move completed items in `ROADMAP.md` to **Done**; add any discovered follow-ups to **Ideas/Backlog**.
-- Invoke the **sync-seed** skill to regenerate seed.md sections 1–7 from current state.
+- Invoke the **sync-seed** skill to regenerate seed.md sections 1–7 from current state. **Skip sync-seed if Step 3 ran only `build-structure` with no new content files created** — the content inventory is unchanged and sync-seed will be a no-op. Proceed directly to encode-seed. (sync-seed is idempotent; skipping it here saves turns and reduces the risk of session limits before publishing.)
 - Run the **encode-seed** prompt to append this tick to the seed Evolution Log.
 - Re-run **check-lifecycle** to reconcile `generation_ticks` in `lifecycle.yml` with the log.
 
