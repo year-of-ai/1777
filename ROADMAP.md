@@ -4,12 +4,6 @@
 ## Now
 
 ## Backlog
-- [ ] **Battle of Brandywine** `content` — `military/battle-of-brandywine.md` — September 11 1777; Howe outflanks Washington; road to Philadelphia. _(military)_
-- [ ] **Mozart 1777** `content` — `arts/mozart-1777.md` — Piano Concerto No. 9 K. 271; journey to Mannheim and Paris; Maria Anna Weber. _(arts)_
-- [ ] **Category index pages** `structure` — Generate `politics/index.md`, `military/index.md`, `science/index.md`, `arts/index.md`, `economics/index.md`, `people/index.md`. _(build-structure)_
-- [ ] **TIMELINE.md** `structure` — Chronological index of all 1777 events. _(build-structure)_
-- [ ] **INDEX.md** `structure` — Master topic index / TOC. _(build-structure)_
-- [ ] **Evolve audit** `meta` — Run `/evolve` to review and improve the `.github/` customization layer. _(after ~5 ticks)_
 
 ## Done
 
@@ -33,3 +27,7 @@
 - British public opinion and the war in 1777 (`politics`)
 - James Watt's steam engine development (patent 1769, commercialized 1776–1780) (`science`)
 - Captain Cook's third voyage progress in 1777 (`science`)
+- Battle of Brandywine (`military`) — deferred at replant
+- Mozart 1777 (`arts`) — deferred at replant
+- Category index pages (`structure`) — deferred at replant
+- Evolve audit (`meta`) — deferred at replant
