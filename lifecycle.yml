@@ -40,3 +40,7 @@ lifecycle:
         repo: "year-of-ai/1777"
         status: mature
         spawned_from: "year-of-ai/1776"
+      - subject: "the year 1778"
+        repo: "year-of-ai/1778"
+        status: growing
+        spawned_from: "year-of-ai/1777"
