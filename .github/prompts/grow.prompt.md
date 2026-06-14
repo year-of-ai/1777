@@ -16,7 +16,7 @@ Delegate the full tick to the **Architect** agent
    phase `replant`/`consolidate` hands off to that prompt instead of ticking; `dormant` stops.
 1. **Orient** — read [seed.md](../../seed.md), [ROADMAP.md](../../ROADMAP.md),
    [README.md](../../README.md), and the repo tree.
-2. **Plan** — `plan-roadmap` skill selects the next 1–3 items (honor any argument override).
+2. **Plan** — `plan-roadmap` skill selects the next 1–3 items (honor any argument override). After `plan-roadmap` returns, proceed immediately to Step 3 — planning is not a complete tick.
 3. **Execute** — `content` → **Curator** agent; `structure` → **build-structure** skill;
    `meta` → **evolve** prompt (periodic).
 4. **Verify** — enforce `concept.scope` + `concept.source_strategy`; no duplicate rows; valid links;
