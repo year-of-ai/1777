@@ -24,6 +24,10 @@ reads state, repairs the counter, and reports a decision.
 2. **Count generation ticks** from seed.md §8: the number of growth-tick entries (entries titled
    `Tick N: …`) appended **after** the most recent `Genesis` or `Replant` entry. Reconcile
    `state.generation_ticks` to this count — §8 wins over the YAML on any disagreement.
+   **Stall diagnostic**: if `generation_ticks` does not advance despite §8 having new entries,
+   check that the safety-net in `grow.yml` titles its §8 headers with the `Tick N:` scheme
+   (the same format `encode-seed` uses). Any other title (e.g. "Growth tick (safety net)") is
+   invisible to this counter and will stall the generation indefinitely.
 3. **Decide the phase**, in priority order:
    - `consolidate` — if `state.lineage` (excluding `state.origin`) has ≥ `consolidate_at_members`
      entries, this repo is the **newest** lineage member, `state.status` is `growing`, **and this
