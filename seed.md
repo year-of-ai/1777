@@ -87,19 +87,21 @@ This repository is simultaneously:
 
 | Category | Slug | README rows | Dedicated files |
 |---|---|---|---|
-| Political Events | politics | 2 | 0 |
-| Military Events | military | 3 | 0 |
+| Political Events | politics | 2 | 1 |
+| Military Events | military | 3 | 2 |
 | Science & Discovery | science | 1 | 0 |
 | Arts & Culture | arts | 1 | 0 |
 | Economics & Trade | economics | 1 | 0 |
 | Key Figures | people | 1 | 0 |
 
 **Total README rows**: 9
-**Total dedicated topic files**: 0
+**Total dedicated topic files**: 3
 
 ### Dedicated topic files
 
-_(none yet — ready for first /grow tick)_
+- `politics/articles-of-confederation.md` — Articles of Confederation (November 15, 1777)
+- `military/battles-of-saratoga.md` — Battles of Saratoga (September 19 – October 17, 1777)
+- `military/valley-forge.md` — Valley Forge Encampment (December 19, 1777 – June 19, 1778)
 
 ---
 
@@ -107,14 +109,14 @@ _(none yet — ready for first /grow tick)_
 
 | Artifact | Status |
 |---|---|
-| `TIMELINE.md` | not yet generated |
-| `INDEX.md` | not yet generated |
-| `politics/index.md` | not yet generated |
-| `military/index.md` | not yet generated |
-| `science/index.md` | not yet generated |
-| `arts/index.md` | not yet generated |
-| `economics/index.md` | not yet generated |
-| `people/index.md` | not yet generated |
+| `TIMELINE.md` | ✓ generated |
+| `INDEX.md` | ✓ generated |
+| `politics/index.md` | ✓ generated |
+| `military/index.md` | ✓ generated |
+| `science/index.md` | ✓ generated (stub — no topic files yet) |
+| `arts/index.md` | ✓ generated (stub — no topic files yet) |
+| `economics/index.md` | ✓ generated (stub — no topic files yet) |
+| `people/index.md` | ✓ generated (stub — no topic files yet) |
 
 ---
 
@@ -159,3 +161,25 @@ To retarget to a new concept: change `concept.subject` and `concept.taxonomy`, d
 **Files created**: seed.md, README.md, ROADMAP.md
 **Spawned from**: year-of-ai/1776 (replant 2026-06-14)
 **Outcome**: Framework active; initial knowledge table seeded with 9 source-verified rows; ready for `/grow`
+
+---
+
+### G1-T1 — 2026-06-14 — Tick 1: Battles of Saratoga, Articles of Confederation, Valley Forge
+
+**Model**: claude-sonnet-4-6
+**Action**: Growth tick 1 — first content expansion of the 1777 knowledge base
+
+Ran check-lifecycle (via shepherd from year-of-ai/1776): decided `grow` (generation_ticks=0/3, lineage=2/7)
+Ran plan-roadmap: 3 items from Now selected (Battles of Saratoga, Articles of Confederation, Valley Forge); all were high-priority military and political coverage gaps
+Ran Curator subagent: researched and authored all 3 dedicated topic files with ≥2 authoritative sources each; updated README.md table links and ROADMAP.md
+
+- Created `military/battles-of-saratoga.md`: Two-battle sequence — Freeman's Farm (Sept 19) and Bemis Heights (Oct 7); Burgoyne's surrender Oct 17 to Gates; ~6,200 captured; French alliance trigger
+- Created `military/valley-forge.md`: Encampment Dec 19, 1777–June 19, 1778; ~12,000 troops, ~2,000 deaths; Baron von Steuben's drill training; Washington's leadership
+- Created `politics/articles-of-confederation.md`: Adopted Nov 15, 1777; Dickinson's earlier draft; one vote per state; no taxing power; Maryland ratified March 1, 1781
+- Updated `README.md`: 3 knowledge-table rows now link to dedicated files (6 still unlinked)
+- Updated `ROADMAP.md`: 3 items moved to Done; Flag Resolution, Vermont Constitution, Carl Friedrich Gauss promoted to Now
+
+Ran build-structure: generated TIMELINE.md, INDEX.md, all 6 category index pages (2 with content, 4 stubs), cross-references in all 3 topic files
+Ran sync-seed: Section 4 updated (0→3 dedicated files); Section 5 updated (all artifacts now ✓ generated)
+
+**Outcome**: 3 dedicated topic files created; 9 README rows (3 linked); total dedicated files: 3; generation_ticks: 1

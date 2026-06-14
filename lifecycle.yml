@@ -28,7 +28,7 @@ lifecycle:
     distilled_at: null
     granularity: "year"
     next_lineage_planted: null
-    generation_ticks: 0
+    generation_ticks: 1
     # The consolidated repo that planted this lineage (NOT counted toward consolidation).
     origin: "year-of-ai/2005-2011"
     lineage:

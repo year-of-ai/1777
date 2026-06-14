@@ -17,9 +17,9 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 
 | Event | Description |
 |---|---|
-| Battles of Saratoga | American victory over Burgoyne's army in October 1777 proved the turning point of the Revolutionary War, convincing France to ally with the colonies. |
-| Articles of Confederation drafted | The Continental Congress adopted and sent the Articles of Confederation to the states for ratification in November 1777, establishing the first federal compact. |
-| Valley Forge encampment | Washington's Continental Army encamped at Valley Forge, Pennsylvania in December 1777, enduring a brutal winter that forged a more disciplined fighting force. |
+| [Battles of Saratoga](military/battles-of-saratoga.md) | American victory over Burgoyne's army in October 1777 proved the turning point of the Revolutionary War, convincing France to ally with the colonies. |
+| [Articles of Confederation drafted](politics/articles-of-confederation.md) | The Continental Congress adopted and sent the Articles of Confederation to the states for ratification in November 1777, establishing the first federal compact. |
+| [Valley Forge encampment](military/valley-forge.md) | Washington's Continental Army encamped at Valley Forge, Pennsylvania in December 1777, enduring a brutal winter that forged a more disciplined fighting force. |
 | Flag Resolution — Stars and Stripes adopted | The Continental Congress passed the Flag Resolution on June 14, 1777, establishing the Stars and Stripes as the flag of the United States. |
 | Vermont Constitution | Vermont adopted its constitution on July 8, 1777 — the first in North America to prohibit adult slavery and grant universal male suffrage without property requirements. |
 | Battle of Brandywine | British forces under Howe defeated Washington at Brandywine Creek on September 11, 1777, opening the path to capture Philadelphia. |

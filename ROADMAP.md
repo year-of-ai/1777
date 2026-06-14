@@ -3,15 +3,11 @@
 
 ## Now
 
-- [ ] **Battles of Saratoga** `content` — `military/battles-of-saratoga.md` — Freeman's Farm and Bemis Heights; Burgoyne's surrender; French alliance trigger. _(military)_
-- [ ] **Articles of Confederation** `content` — `politics/articles-of-confederation.md` — drafting, adoption by Congress Nov 15 1777, ratification process. _(politics)_
-- [ ] **Valley Forge** `content` — `military/valley-forge.md` — encampment Dec 1777–June 1778, Baron von Steuben's training, Washington's leadership. _(military)_
-
-## Backlog
-
 - [ ] **Flag Resolution** `content` — `politics/flag-resolution.md` — June 14 1777 Stars and Stripes resolution; Betsy Ross legend vs. historical record. _(politics)_
 - [ ] **Vermont Constitution** `content` — `politics/vermont-constitution.md` — first anti-slavery constitution in North America; universal male suffrage. _(politics)_
 - [ ] **Carl Friedrich Gauss** `content` — `people/carl-friedrich-gauss.md` — birth April 30 1777; early life; eventual mathematical contributions. _(people)_
+
+## Backlog
 - [ ] **Battle of Brandywine** `content` — `military/battle-of-brandywine.md` — September 11 1777; Howe outflanks Washington; road to Philadelphia. _(military)_
 - [ ] **Mozart 1777** `content` — `arts/mozart-1777.md` — Piano Concerto No. 9 K. 271; journey to Mannheim and Paris; Maria Anna Weber. _(arts)_
 - [ ] **Category index pages** `structure` — Generate `politics/index.md`, `military/index.md`, `science/index.md`, `arts/index.md`, `economics/index.md`, `people/index.md`. _(build-structure)_
@@ -22,6 +18,9 @@
 ## Done
 
 - [x] **Genesis** `meta` — Bootstrapped repo for "the year 1777"; created seed.md, README.md, ROADMAP.md. _(2026-06-14)_
+- [x] **Battles of Saratoga** `content` — `military/battles-of-saratoga.md` — Freeman's Farm and Bemis Heights; Burgoyne's surrender; French alliance trigger. _(2026-06-14)_
+- [x] **Articles of Confederation** `content` — `politics/articles-of-confederation.md` — drafting, adoption by Congress Nov 15 1777, ratification process. _(2026-06-14)_
+- [x] **Valley Forge** `content` — `military/valley-forge.md` — encampment Dec 1777–June 1778, Baron von Steuben's training, Washington's leadership. _(2026-06-14)_
 
 ## Ideas
 
