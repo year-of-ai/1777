@@ -27,8 +27,15 @@ parameterized by it; never assume a specific subject.
 ### 0 — Lifecycle gate
 Invoke the **check-lifecycle** skill (reads [lifecycle.yml](../../lifecycle.yml) + seed.md §8). If
 the phase is `replant` or `consolidate`, do **not** run a growth tick — hand off to the **replant**
-or **consolidate** prompt respectively and stop. If `dormant`, report and stop. Only phase `grow`
-continues below.
+or **consolidate** prompt respectively and stop. Only phase `grow` continues below.
+
+If `dormant` (this repo is `mature`): enter **Shepherd Mode** — do NOT run a tick on this repo.
+1. Find the newest `growing` member in `lifecycle.yml state.lineage`.
+2. Try `gh workflow run grow.yml --repo <growing-member-repo>` — if it succeeds, report and stop.
+3. If that fails (no PAT / insufficient scope), clone the growing member's repo using `LIFECYCLE_PAT`,
+   run the standard pipeline inside it (plan-roadmap → Curator subagent → build-structure →
+   sync-seed → encode-seed → write-back `lifecycle.yml generation_ticks` → direct `git push`), then stop.
+If no growing member exists (all lineage members mature), report and stop.
 
 ### 1 — Orient
 Read [seed.md](../../seed.md) (Concept Definition + inventories), [ROADMAP.md](../../ROADMAP.md),
