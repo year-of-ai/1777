@@ -241,3 +241,22 @@ Ran sync-seed: Section 4 updated (3→6 dedicated files; politics 2→3 rows/1�
 
 **Successor**: "the year 1778" → `year-of-ai/1778`
 **Lineage**: 3 of 7 members toward consolidation (1776 + 1777 + 1778)
+
+### Distillation — 2026-06-15
+
+**Model**: claude-opus-4-8
+**Action**: Lineage meta-review (frontier model) at `distill_at_members: 3`, run from the 1777 driver position (`state.distilled_at` was null). Cloned and reviewed all three G1 members — 1776, 1777, 1778 — via `LIFECYCLE_PAT`: seeds, §8 Evolution Logs, lifecycle state, content shape, framework layer, and the learnings/PR ledgers.
+
+**Findings** (sharpest first):
+- **Framework divergence persists despite the prior distill's fix.** 1778's per-cycle `/learn` (commit `4d9fded`) embedded two genuine improvements — distill reads `telemetry/learnings.jsonl` first (L001) and a `learn` shallow-generation fast-path (L002) — but they live *only* in 1778. They never flowed back to the canonical driver (1776) or sideways to 1777, so the forward-pollinate source still lacks them. This is the same member→driver propagation gap the prior distill named, recurring one generation later: per-cycle learnings born in a non-driver member have no automatic path home.
+- The dominant historical friction (safety-net ticks firing before `publish-session`; empty counter-advancing ticks; no-op `sync-seed`/`check-lifecycle` rescans) was already mined and embedded by `/learn` across 1776/1777 and confirmed via the ledgers — not re-derived.
+- Content quality is uneven across members: 1776 has 6 dedicated files spanning all 6 categories; 1777 has 6 files but three categories (arts, economics, science) carry README rows with **no** dedicated file. Coverage breadth, not depth, is the gap — a future `plan-roadmap` bias toward empty categories would even it out.
+- The portable `seed-package/` produced by the prior distill is sound and fully concept-agnostic (worked example "the year 1776"); it needed porting, not redesign.
+
+**Improvements applied** (live framework in this repo; fans out via pollinate):
+- Ported L001 into `.github/prompts/distill.prompt.md` Part A — read the driver's `learnings.jsonl` first and skip re-deriving already-embedded friction.
+- Ported L002 into `.github/skills/learn/SKILL.md` — shallow-generation fast-path (all-distill/all-replant windows mine framework-level signal only).
+
+**Seed package**: created `seed-package/` (4 files — `README.md` with org/secrets/launch steps + the "the year 1776" worked example, `seed.template.md`, `lifecycle.template.yml`, `MANIFEST.md`), ported verbatim from the proven 1778 distillation output.
+
+**State**: `lifecycle.yml state.distilled_at` set to 2026-06-15.
