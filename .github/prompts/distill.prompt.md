@@ -13,7 +13,11 @@ starting concept (e.g. "the year 1776", "an organization", "a technology").
 
 Read [lifecycle.yml](../../lifecycle.yml) first. Preconditions: the lifecycle gate reports
 `distill` (lineage ≥ `distill_at_members`, `state.distilled_at` null) or `--force`;
-`LIFECYCLE_PAT` available for cloning members.
+`LIFECYCLE_PAT` available for cloning members. **Run only in the canonical driver — the
+`lineage[0]` repo.** Distillation ships the portable `seed-package/` and sets `state.distilled_at`,
+and the driver is the deterministic forward-pollination source; a non-driver member that self-distills
+writes the package into the wrong repo and leaves the driver un-distilled. If this repo is not
+`lineage[0]`, stop (the workflow phase gate already enforces this — see `grow.yml`).
 
 ## Part A — Review the lineage
 
