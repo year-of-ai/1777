@@ -27,7 +27,9 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | Battle of Brandywine | British forces under Howe defeated Washington at Brandywine Creek on September 11, 1777, opening the path to capture Philadelphia. |
 | British occupy Philadelphia | British forces occupied Philadelphia on September 26, 1777, forcing the Continental Congress to flee, though the city's capture proved strategically hollow. |
 | [Carl Friedrich Gauss born](people/carl-friedrich-gauss.md) | The mathematician Carl Friedrich Gauss was born on April 30, 1777 in Brunswick — one of the most influential mathematicians in history. |
-| Mozart's prolific output continues | Wolfgang Amadeus Mozart composed the Piano Concerto No. 9 (K. 271, "Jenamy") and other major works during 1777 while seeking new court appointments. |
+| [Lavoisier's oxygen theory](science/lavoisier-oxygen-theory.md) | Antoine Lavoisier published "On Combustion in General" in 1777, overthrowing phlogiston theory with quantitative experiments and launching the Chemical Revolution. |
+| [James Watt's steam engine improvements](economics/james-watt-steam-engine.md) | Boulton and Watt completed "Old Bess" in 1777 and secured Cornish mining orders, establishing the commercial template for industrial steam power. |
+| [Wolfgang Amadeus Mozart's 1777 tour](arts/mozart-1777-tour.md) | Mozart broke free from Salzburg's court, embarked on a European tour in September 1777, and completed major compositions including Piano Concerto K. 271 and Flute Quartet K. 285. |
 
 ---
 

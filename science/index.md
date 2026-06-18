@@ -3,5 +3,7 @@
 Scientific advances and explorations of 1777.
 
 <!-- BEGIN GENERATED: category-index — maintained by build-structure; do not edit by hand -->
-*No dedicated topic files yet — see [ROADMAP.md](../ROADMAP.md) for planned entries.*
+| Topic | Description |
+|---|---|
+| [Lavoisier's Oxygen Theory](lavoisier-oxygen-theory.md) | Antoine Lavoisier's 1777 memoir "On Combustion in General" attacked phlogiston theory with quantitative experiments, establishing combustion as chemical combination with oxygen and launching the Chemical Revolution. |
 <!-- END GENERATED: category-index -->

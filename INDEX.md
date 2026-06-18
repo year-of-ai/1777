@@ -15,15 +15,15 @@ A complete map of all content in this knowledge base, organized by category.
 - → [military/index.md](military/index.md) — full category index
 
 ## Science & Discovery
-*(No dedicated files yet)*
+- [Lavoisier's Oxygen Theory](science/lavoisier-oxygen-theory.md) — 1777 memoir "On Combustion in General" overturning phlogiston theory and launching the Chemical Revolution
 - → [science/index.md](science/index.md) — full category index
 
 ## Arts & Culture
-*(No dedicated files yet)*
+- [Wolfgang Amadeus Mozart's 1777 European Tour](arts/mozart-1777-tour.md) — Mozart's break from Salzburg and tour of Munich, Augsburg, and Mannheim; Concerto K. 271 and Flute Quartet K. 285
 - → [arts/index.md](arts/index.md) — full category index
 
 ## Economics & Trade
-*(No dedicated files yet)*
+- [James Watt's Steam Engine Improvements](economics/james-watt-steam-engine.md) — "Old Bess" completion and Cornish mining orders, 1777; the fuel-savings licensing template for industrial steam power
 - → [economics/index.md](economics/index.md) — full category index
 
 ## Key Figures
