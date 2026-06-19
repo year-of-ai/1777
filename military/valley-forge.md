@@ -26,7 +26,8 @@ Valley Forge transformed the Continental Army from a force struggling with incon
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 ## Related
 
+- [Battle of Brandywine](battle-of-brandywine.md) — the September 11, 1777 defeat that opened the Philadelphia campaign whose close drove the army into winter quarters here
+- [British Occupation of Philadelphia](british-occupation-philadelphia.md) — Washington's army wintered at Valley Forge roughly twenty miles from the British-held capital
 - [Battles of Saratoga](battles-of-saratoga.md) — American victory in autumn 1777 that preceded the Valley Forge encampment
 - [Articles of Confederation](../politics/articles-of-confederation.md) — governing compact adopted November 15, 1777, as Washington's army prepared for the winter march to Valley Forge
-- [Flag Resolution — Stars and Stripes](../politics/flag-resolution.md) — national emblem established June 14, 1777, before the campaign season that ended at Valley Forge
 <!-- END GENERATED: crossrefs -->

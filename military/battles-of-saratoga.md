@@ -28,6 +28,7 @@ The American victory at Saratoga is widely regarded as the turning point of the 
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 ## Related
 
+- [British Occupation of Philadelphia](british-occupation-philadelphia.md) — concurrent southern campaign whose strategic value Saratoga's outcome fatally undermined
 - [Valley Forge Encampment](valley-forge.md) — winter encampment that followed Saratoga, where von Steuben trained the Continental Army
 - [Articles of Confederation](../politics/articles-of-confederation.md) — adopted November 15, 1777, weeks after Burgoyne's surrender elevated American credibility
 - [Flag Resolution — Stars and Stripes](../politics/flag-resolution.md) — national flag established June 14, 1777, as the Saratoga campaign was being planned
