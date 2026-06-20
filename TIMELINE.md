@@ -14,9 +14,11 @@ A chronological index of notable events, people, and works of the year 1777.
 | September 19, 1777 | Battle of Freeman's Farm (First Battle of Saratoga) | Military Events | [Battles of Saratoga](military/battles-of-saratoga.md) |
 | September 23, 1777 | Mozart departs Salzburg with his mother on his European tour | Arts & Culture | [Mozart's 1777 Tour](arts/mozart-1777-tour.md) |
 | September 26, 1777 | British forces occupy Philadelphia | Military Events | [British Occupation of Philadelphia](military/british-occupation-philadelphia.md) |
+| October 6, 1777 | Clinton captures Forts Clinton and Montgomery in his Hudson River relief offensive | Key Figures | [Sir Henry Clinton](people/sir-henry-clinton.md) |
 | October 7, 1777 | Battle of Bemis Heights (Second Battle of Saratoga) | Military Events | [Battles of Saratoga](military/battles-of-saratoga.md) |
 | October 17, 1777 | Burgoyne surrenders at Saratoga | Military Events | [Battles of Saratoga](military/battles-of-saratoga.md) |
 | November 15, 1777 | Articles of Confederation adopted by Continental Congress | Political Events | [Articles of Confederation](politics/articles-of-confederation.md) |
+| December 4, 1777 | News of Burgoyne's surrender at Saratoga reaches Paris, triggering French alliance negotiations | Economics & Trade | [Franco-American Diplomatic Breakthrough](economics/franco-american-diplomacy-1777.md) |
 | December 19, 1777 | Continental Army encamps at Valley Forge | Military Events | [Valley Forge](military/valley-forge.md) |
 | December 25, 1777 | Mozart completes Flute Quartet No. 1 (K. 285) in Mannheim | Arts & Culture | [Mozart's 1777 Tour](arts/mozart-1777-tour.md) |
 | 1777 | Boulton and Watt complete "Old Bess" and secure Cornish mining orders | Economics & Trade | [James Watt's Steam Engine](economics/james-watt-steam-engine.md) |

@@ -25,11 +25,15 @@ A complete map of all content in this knowledge base, organized by category.
 - → [arts/index.md](arts/index.md) — full category index
 
 ## Economics & Trade
+- [Franco-American Diplomatic Breakthrough](economics/franco-american-diplomacy-1777.md) — Saratoga's news reaches Paris, December 1777; French alliance sealed by the February 6, 1778 treaties
 - [James Watt's Steam Engine Improvements](economics/james-watt-steam-engine.md) — "Old Bess" completion and Cornish mining orders, 1777; the fuel-savings licensing template for industrial steam power
 - → [economics/index.md](economics/index.md) — full category index
 
 ## Key Figures
 - [Carl Friedrich Gauss](people/carl-friedrich-gauss.md) — Mathematician born April 30, 1777; later made foundational contributions to number theory, algebra, geometry, and physics
+- [General John Burgoyne](people/general-john-burgoyne.md) — British commander of the 1777 northern campaign; surrendered at Saratoga, October 17, 1777
+- [Lord George Germain](people/lord-george-germain.md) — Secretary of State for the Colonies whose uncoordinated 1777 strategy left Burgoyne unsupported
+- [Sir Henry Clinton](people/sir-henry-clinton.md) — Howe's second-in-command in 1777; later British Commander-in-Chief in America, 1778–1782
 - → [people/index.md](people/index.md) — full category index
 
 ---

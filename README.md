@@ -30,6 +30,10 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Lavoisier's oxygen theory](science/lavoisier-oxygen-theory.md) | Antoine Lavoisier published "On Combustion in General" in 1777, overthrowing phlogiston theory with quantitative experiments and launching the Chemical Revolution. |
 | [James Watt's steam engine improvements](economics/james-watt-steam-engine.md) | Boulton and Watt completed "Old Bess" in 1777 and secured Cornish mining orders, establishing the commercial template for industrial steam power. |
 | [Wolfgang Amadeus Mozart's 1777 tour](arts/mozart-1777-tour.md) | Mozart broke free from Salzburg's court, embarked on a European tour in September 1777, and completed major compositions including Piano Concerto K. 271 and Flute Quartet K. 285. |
+| [Lord George Germain](people/lord-george-germain.md) | Secretary of State for the Colonies (1775–1782), Germain bore primary responsibility for British war strategy, but his miscommunication with field commanders precipitated Burgoyne's defeat at Saratoga. |
+| [General John Burgoyne](people/general-john-burgoyne.md) | British general commanding the 1777 northern campaign who surrendered his army at Saratoga on October 17, 1777; his defeat convinced France to enter the war and proved the turning point of the Revolution. |
+| [Sir Henry Clinton](people/sir-henry-clinton.md) | Second-in-command to Howe in 1777, passed over for the northern command and awarded a knighthood as consolation, later became British Commander-in-Chief in America (1778–1782). |
+| [Franco-American Diplomatic Breakthrough](economics/franco-american-diplomacy-1777.md) | News of Saratoga (October 17, 1777) reached Paris in December, triggering rapid French commitment to alliance; formal treaties signed February 6, 1778, transforming the war into a global conflict. |
 
 ---
 
