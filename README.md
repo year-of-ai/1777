@@ -34,6 +34,9 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [General John Burgoyne](people/general-john-burgoyne.md) | British general commanding the 1777 northern campaign who surrendered his army at Saratoga on October 17, 1777; his defeat convinced France to enter the war and proved the turning point of the Revolution. |
 | [Sir Henry Clinton](people/sir-henry-clinton.md) | Second-in-command to Howe in 1777, passed over for the northern command and awarded a knighthood as consolation, later became British Commander-in-Chief in America (1778–1782). |
 | [Franco-American Diplomatic Breakthrough](economics/franco-american-diplomacy-1777.md) | News of Saratoga (October 17, 1777) reached Paris in December, triggering rapid French commitment to alliance; formal treaties signed February 6, 1778, transforming the war into a global conflict. |
+| [Marquis de Lafayette arrives in America](people/marquis-de-lafayette.md) | The French aristocrat and volunteer major general arrived on June 13, 1777, and became George Washington's closest aide and most trusted commander, exemplifying international support for American independence. |
+| [General George Washington](people/george-washington.md) | Commander-in-Chief of the Continental Army through the year's defeats (Brandywine, Germantown) and triumph at Valley Forge, Washington's 1777 leadership proved pivotal to surviving the Revolution's darkest hour. |
+| [Benjamin Franklin in Paris](people/benjamin-franklin.md) | The aging diplomat and elder statesman spent 1777 in Paris negotiating with the French court, building the diplomatic consensus that Saratoga's October victory would convert into the formal alliance of February 1778. |
 
 ---
 

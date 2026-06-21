@@ -84,5 +84,5 @@ The commercial dimensions of the alliance proved significant beyond the war itse
 - [Battles of Saratoga](../military/battles-of-saratoga.md) — the American victory whose news reached Paris and triggered the alliance
 - [General John Burgoyne](../people/general-john-burgoyne.md) — British commander whose surrender provided the pretext France had awaited
 - [Lord George Germain](../people/lord-george-germain.md) — Secretary of State whose strategic failures produced the defeat that brought France into the war
-- [Sir Henry Clinton](../people/sir-henry-clinton.md) — British commander who inherited a war transformed by the French alliance
+- [Benjamin Franklin in Paris](../people/benjamin-franklin.md) — diplomat who led the commission that converted Saratoga's news into the formal alliance
 <!-- END GENERATED: crossrefs -->

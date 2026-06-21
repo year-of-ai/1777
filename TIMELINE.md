@@ -7,6 +7,7 @@ A chronological index of notable events, people, and works of the year 1777.
 |---|---|---|---|
 | January 1777 | Mozart completes Piano Concerto No. 9 (K. 271, "Jenamy") in Salzburg | Arts & Culture | [Mozart's 1777 Tour](arts/mozart-1777-tour.md) |
 | April 30, 1777 | Carl Friedrich Gauss born in Brunswick | Key Figures | [Carl Friedrich Gauss](people/carl-friedrich-gauss.md) |
+| June 13, 1777 | Marquis de Lafayette arrives on the South Carolina coast | Key Figures | [Marquis de Lafayette](people/marquis-de-lafayette.md) |
 | June 14, 1777 | Flag Resolution — Stars and Stripes adopted | Political Events | [Flag Resolution](politics/flag-resolution.md) |
 | July 8, 1777 | Vermont Constitution adopted | Political Events | [Vermont Constitution](politics/vermont-constitution.md) |
 | September 5, 1777 | Lavoisier reads "Mémoire sur la combustion en général" to the Paris Académie | Science & Discovery | [Lavoisier's Oxygen Theory](science/lavoisier-oxygen-theory.md) |
@@ -14,6 +15,7 @@ A chronological index of notable events, people, and works of the year 1777.
 | September 19, 1777 | Battle of Freeman's Farm (First Battle of Saratoga) | Military Events | [Battles of Saratoga](military/battles-of-saratoga.md) |
 | September 23, 1777 | Mozart departs Salzburg with his mother on his European tour | Arts & Culture | [Mozart's 1777 Tour](arts/mozart-1777-tour.md) |
 | September 26, 1777 | British forces occupy Philadelphia | Military Events | [British Occupation of Philadelphia](military/british-occupation-philadelphia.md) |
+| October 4, 1777 | Washington's counterattack at the Battle of Germantown fails amid fog and confusion | Key Figures | [General George Washington](people/george-washington.md) |
 | October 6, 1777 | Clinton captures Forts Clinton and Montgomery in his Hudson River relief offensive | Key Figures | [Sir Henry Clinton](people/sir-henry-clinton.md) |
 | October 7, 1777 | Battle of Bemis Heights (Second Battle of Saratoga) | Military Events | [Battles of Saratoga](military/battles-of-saratoga.md) |
 | October 17, 1777 | Burgoyne surrenders at Saratoga | Military Events | [Battles of Saratoga](military/battles-of-saratoga.md) |

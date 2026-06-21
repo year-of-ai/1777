@@ -28,6 +28,6 @@ Valley Forge transformed the Continental Army from a force struggling with incon
 
 - [Battle of Brandywine](battle-of-brandywine.md) — the September 11, 1777 defeat that opened the Philadelphia campaign whose close drove the army into winter quarters here
 - [British Occupation of Philadelphia](british-occupation-philadelphia.md) — Washington's army wintered at Valley Forge roughly twenty miles from the British-held capital
-- [Battles of Saratoga](battles-of-saratoga.md) — American victory in autumn 1777 that preceded the Valley Forge encampment
-- [Articles of Confederation](../politics/articles-of-confederation.md) — governing compact adopted November 15, 1777, as Washington's army prepared for the winter march to Valley Forge
+- [General George Washington](../people/george-washington.md) — Commander-in-Chief who led the army into this encampment and presided over its transformation
+- [Marquis de Lafayette](../people/marquis-de-lafayette.md) — French major general who wintered here and spent his own funds on the suffering troops
 <!-- END GENERATED: crossrefs -->

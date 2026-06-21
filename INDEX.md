@@ -30,9 +30,12 @@ A complete map of all content in this knowledge base, organized by category.
 - → [economics/index.md](economics/index.md) — full category index
 
 ## Key Figures
+- [Benjamin Franklin in Paris](people/benjamin-franklin.md) — Diplomat whose 1777 Paris commission converted Saratoga's victory into the February 1778 French alliance
 - [Carl Friedrich Gauss](people/carl-friedrich-gauss.md) — Mathematician born April 30, 1777; later made foundational contributions to number theory, algebra, geometry, and physics
+- [General George Washington](people/george-washington.md) — Continental Army Commander-in-Chief through Brandywine, Germantown, and the Valley Forge winter of 1777
 - [General John Burgoyne](people/general-john-burgoyne.md) — British commander of the 1777 northern campaign; surrendered at Saratoga, October 17, 1777
 - [Lord George Germain](people/lord-george-germain.md) — Secretary of State for the Colonies whose uncoordinated 1777 strategy left Burgoyne unsupported
+- [Marquis de Lafayette](people/marquis-de-lafayette.md) — French volunteer major general who arrived June 13, 1777, wounded at Brandywine, became Washington's trusted aide
 - [Sir Henry Clinton](people/sir-henry-clinton.md) — Howe's second-in-command in 1777; later British Commander-in-Chief in America, 1778–1782
 - → [people/index.md](people/index.md) — full category index
 

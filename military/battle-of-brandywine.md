@@ -59,5 +59,5 @@ Brandywine is significant on three levels. Militarily, it was the largest single
 - [British Occupation of Philadelphia](british-occupation-philadelphia.md) — the direct strategic consequence of the British victory at Brandywine
 - [Battles of Saratoga](battles-of-saratoga.md) — simultaneous American victory in New York that reversed the political damage from Brandywine's defeat
 - [Valley Forge Encampment](valley-forge.md) — winter encampment where the army retreated after the Philadelphia campaign
-- [Flag Resolution — Stars and Stripes](../politics/flag-resolution.md) — national flag adopted June 14, 1777, three months before the battle
+- [Marquis de Lafayette](../people/marquis-de-lafayette.md) — French volunteer wounded in the leg here in his first combat, September 11, 1777
 <!-- END GENERATED: crossrefs -->
