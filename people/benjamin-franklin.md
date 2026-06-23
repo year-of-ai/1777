@@ -57,4 +57,5 @@ The 1778 alliance enabled France to provide the naval power, military materiel, 
 - [Franco-American Diplomatic Breakthrough](../economics/franco-american-diplomacy-1777.md) — formal treaties of February 1778 that Franklin's 1777 work made possible
 - [General George Washington](george-washington.md) — Commander-in-Chief whose Valley Forge endurance ran parallel to Franklin's Paris negotiations
 - [Marquis de Lafayette](marquis-de-lafayette.md) — French volunteer whose 1777 arrival in America exemplified the Franco-American connection Franklin was forging
+- [Royal Society Lightning Conductor Controversy](../science/royal-society-lightning-controversy-1777.md) — 1777 dispute in which Franklin's pointed lightning rod became entangled with wartime politics in Britain
 <!-- END GENERATED: crossrefs -->

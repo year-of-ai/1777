@@ -60,4 +60,5 @@ Brandywine is significant on three levels. Militarily, it was the largest single
 - [Battles of Saratoga](battles-of-saratoga.md) — simultaneous American victory in New York that reversed the political damage from Brandywine's defeat
 - [Valley Forge Encampment](valley-forge.md) — winter encampment where the army retreated after the Philadelphia campaign
 - [Marquis de Lafayette](../people/marquis-de-lafayette.md) — French volunteer wounded in the leg here in his first combat, September 11, 1777
+- [Howe's 1777 Campaign Strategy](howe-strategy-1777.md) — the broader Philadelphia campaign of which Brandywine was the decisive engagement
 <!-- END GENERATED: crossrefs -->

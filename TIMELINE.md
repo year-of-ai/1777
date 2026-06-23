@@ -6,10 +6,13 @@ A chronological index of notable events, people, and works of the year 1777.
 | Date | Event | Category | Source |
 |---|---|---|---|
 | January 1777 | Mozart completes Piano Concerto No. 9 (K. 271, "Jenamy") in Salzburg | Arts & Culture | [Mozart's 1777 Tour](arts/mozart-1777-tour.md) |
+| January 13, 1777 | Prince Hall and seven others petition the Massachusetts legislature to abolish slavery | Political Events | [Massachusetts Anti-Slavery Petition](politics/massachusetts-slavery-petition-1777.md) |
 | April 30, 1777 | Carl Friedrich Gauss born in Brunswick | Key Figures | [Carl Friedrich Gauss](people/carl-friedrich-gauss.md) |
+| May 15, 1777 | Lightning strikes the Purfleet powder magazine, igniting the Royal Society lightning-conductor controversy | Science & Discovery | [Royal Society Lightning Conductor Controversy](science/royal-society-lightning-controversy-1777.md) |
 | June 13, 1777 | Marquis de Lafayette arrives on the South Carolina coast | Key Figures | [Marquis de Lafayette](people/marquis-de-lafayette.md) |
 | June 14, 1777 | Flag Resolution — Stars and Stripes adopted | Political Events | [Flag Resolution](politics/flag-resolution.md) |
 | July 8, 1777 | Vermont Constitution adopted | Political Events | [Vermont Constitution](politics/vermont-constitution.md) |
+| August 25, 1777 | Howe's army lands at Head of Elk, Maryland, opening the Philadelphia campaign | Military Events | [Howe's 1777 Campaign Strategy](military/howe-strategy-1777.md) |
 | September 5, 1777 | Lavoisier reads "Mémoire sur la combustion en général" to the Paris Académie | Science & Discovery | [Lavoisier's Oxygen Theory](science/lavoisier-oxygen-theory.md) |
 | September 11, 1777 | Battle of Brandywine | Military Events | [Battle of Brandywine](military/battle-of-brandywine.md) |
 | September 19, 1777 | Battle of Freeman's Farm (First Battle of Saratoga) | Military Events | [Battles of Saratoga](military/battles-of-saratoga.md) |

@@ -44,4 +44,5 @@ Vermont's Declaration of Rights, adopted twelve years before the federal Bill of
 - [Articles of Confederation](articles-of-confederation.md) — parallel governing compact of 1777, establishing the league of thirteen states at the federal level
 - [Flag Resolution — Stars and Stripes](flag-resolution.md) — another foundational act of 1777 defining the symbols and structures of the new republic
 - [Battles of Saratoga](../military/battles-of-saratoga.md) — military turning point of 1777 that gave political momentum to nation-building efforts including Vermont's constitution
+- [Massachusetts Anti-Slavery Petition](massachusetts-slavery-petition-1777.md) — the contemporaneous Massachusetts appeal whose abolition argument Vermont's Declaration of Rights enacted into law
 <!-- END GENERATED: crossrefs -->

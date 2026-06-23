@@ -6,6 +6,7 @@ A complete map of all content in this knowledge base, organized by category.
 ## Political Events
 - [Articles of Confederation](politics/articles-of-confederation.md) — First formal governing compact of the thirteen United States, adopted November 15, 1777
 - [Flag Resolution — Stars and Stripes](politics/flag-resolution.md) — Continental Congress resolution establishing the Stars and Stripes, June 14, 1777
+- [Massachusetts Anti-Slavery Petition](politics/massachusetts-slavery-petition-1777.md) — Prince Hall and seven others petition for abolition on Revolutionary principles, January 13, 1777
 - [Vermont Constitution](politics/vermont-constitution.md) — First North American constitution to ban adult slavery and grant universal male suffrage, July 8, 1777
 - → [politics/index.md](politics/index.md) — full category index
 
@@ -13,11 +14,13 @@ A complete map of all content in this knowledge base, organized by category.
 - [Battle of Brandywine](military/battle-of-brandywine.md) — Largest single-day battle of the Revolutionary War; Howe defeated Washington, September 11, 1777
 - [Battles of Saratoga](military/battles-of-saratoga.md) — American victory culminating in Burgoyne's surrender, October 17, 1777
 - [British Occupation of Philadelphia](military/british-occupation-philadelphia.md) — British capture and eight-month occupation of the American capital, September 1777–June 1778
+- [Howe's 1777 Campaign Strategy](military/howe-strategy-1777.md) — Howe's choice to take Philadelphia by sea instead of supporting Burgoyne; tactical wins, strategic disaster at Saratoga
 - [Valley Forge Encampment](military/valley-forge.md) — Continental Army winter encampment; von Steuben's transformative training, December 1777–June 1778
 - → [military/index.md](military/index.md) — full category index
 
 ## Science & Discovery
 - [Lavoisier's Oxygen Theory](science/lavoisier-oxygen-theory.md) — 1777 memoir "On Combustion in General" overturning phlogiston theory and launching the Chemical Revolution
+- [Royal Society Lightning Conductor Controversy](science/royal-society-lightning-controversy-1777.md) — 1777 pointed-vs-rounded lightning rod dispute that became a wartime political proxy and forced the Royal Society president to resign
 - → [science/index.md](science/index.md) — full category index
 
 ## Arts & Culture

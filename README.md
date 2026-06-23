@@ -1,6 +1,6 @@
 # The Year 1777
 
-> **Status**: This repository is **mature** (generation complete — 18 dedicated topic files spanning all six categories). Successor: [year-of-ai/1778](https://github.com/year-of-ai/1778) — the year 1778.
+> **Status**: This repository is **mature** (generation complete — 21 dedicated topic files spanning all six categories). Successor: [year-of-ai/1778](https://github.com/year-of-ai/1778) — the year 1778.
 
 A self-growing, encyclopedic knowledge base covering the events, people, works, and discoveries of **1777** — the year of the Battles of Saratoga, Valley Forge, the Articles of Confederation, and the Stars and Stripes.
 
@@ -24,10 +24,13 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Valley Forge encampment](military/valley-forge.md) | Washington's Continental Army encamped at Valley Forge, Pennsylvania in December 1777, enduring a brutal winter that forged a more disciplined fighting force. |
 | [Flag Resolution — Stars and Stripes adopted](politics/flag-resolution.md) | The Continental Congress passed the Flag Resolution on June 14, 1777, establishing the Stars and Stripes as the flag of the United States. |
 | [Vermont Constitution](politics/vermont-constitution.md) | Vermont adopted its constitution on July 8, 1777 — the first in North America to prohibit adult slavery and grant universal male suffrage without property requirements. |
+| [Massachusetts Anti-Slavery Petition](politics/massachusetts-slavery-petition-1777.md) | African Americans in Massachusetts submitted a petition to the state legislature on January 13, 1777, invoking Revolutionary principles to demand the abolition of slavery and freedom for future children. |
 | [Battle of Brandywine](military/battle-of-brandywine.md) | British forces under Howe defeated Washington at Brandywine Creek on September 11, 1777, opening the path to capture Philadelphia. |
+| [Howe's 1777 Campaign Strategy](military/howe-strategy-1777.md) | General Howe's strategic decision to pursue Philadelphia rather than reinforce Burgoyne's northern campaign led to tactical victories but strategic failure, ultimately contributing to French entry into the war. |
 | [British occupy Philadelphia](military/british-occupation-philadelphia.md) | British forces occupied Philadelphia on September 26, 1777, forcing the Continental Congress to flee, though the city's capture proved strategically hollow. |
 | [Carl Friedrich Gauss born](people/carl-friedrich-gauss.md) | The mathematician Carl Friedrich Gauss was born on April 30, 1777 in Brunswick — one of the most influential mathematicians in history. |
 | [Lavoisier's oxygen theory](science/lavoisier-oxygen-theory.md) | Antoine Lavoisier published "On Combustion in General" in 1777, overthrowing phlogiston theory with quantitative experiments and launching the Chemical Revolution. |
+| [Royal Society Lightning Conductor Controversy](science/royal-society-lightning-controversy-1777.md) | A bitter dispute erupted within the Royal Society over whether lightning conductors should have pointed or rounded tips, with Benjamin Franklin's design becoming entangled with wartime politics and forcing the society's president to resign. |
 | [James Watt's steam engine improvements](economics/james-watt-steam-engine.md) | Boulton and Watt completed "Old Bess" in 1777 and secured Cornish mining orders, establishing the commercial template for industrial steam power. |
 | [Wolfgang Amadeus Mozart's 1777 tour](arts/mozart-1777-tour.md) | Mozart broke free from Salzburg's court, embarked on a European tour in September 1777, and completed major compositions including Piano Concerto K. 271 and Flute Quartet K. 285. |
 | [Lord George Germain](people/lord-george-germain.md) | Secretary of State for the Colonies (1775–1782), Germain bore primary responsibility for British war strategy, but his miscommunication with field commanders precipitated Burgoyne's defeat at Saratoga. |
