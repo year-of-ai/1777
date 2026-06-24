@@ -8,6 +8,7 @@ A chronological index of notable events, people, and works of the year 1777.
 | January 1777 | Mozart completes Piano Concerto No. 9 (K. 271, "Jenamy") in Salzburg | Arts & Culture | [Mozart's 1777 Tour](arts/mozart-1777-tour.md) |
 | January 13, 1777 | Prince Hall and seven others petition the Massachusetts legislature to abolish slavery | Political Events | [Massachusetts Anti-Slavery Petition](politics/massachusetts-slavery-petition-1777.md) |
 | April 30, 1777 | Carl Friedrich Gauss born in Brunswick | Key Figures | [Carl Friedrich Gauss](people/carl-friedrich-gauss.md) |
+| May 8, 1777 | Sheridan's *The School for Scandal* premieres at the Theatre Royal, Drury Lane | Arts & Culture | [The School for Scandal](arts/sheridan-school-for-scandal.md) |
 | May 15, 1777 | Lightning strikes the Purfleet powder magazine, igniting the Royal Society lightning-conductor controversy | Science & Discovery | [Royal Society Lightning Conductor Controversy](science/royal-society-lightning-controversy-1777.md) |
 | June 13, 1777 | Marquis de Lafayette arrives on the South Carolina coast | Key Figures | [Marquis de Lafayette](people/marquis-de-lafayette.md) |
 | June 14, 1777 | Flag Resolution — Stars and Stripes adopted | Political Events | [Flag Resolution](politics/flag-resolution.md) |
@@ -26,5 +27,7 @@ A chronological index of notable events, people, and works of the year 1777.
 | December 4, 1777 | News of Burgoyne's surrender at Saratoga reaches Paris, triggering French alliance negotiations | Economics & Trade | [Franco-American Diplomatic Breakthrough](economics/franco-american-diplomacy-1777.md) |
 | December 19, 1777 | Continental Army encamps at Valley Forge | Military Events | [Valley Forge](military/valley-forge.md) |
 | December 25, 1777 | Mozart completes Flute Quartet No. 1 (K. 285) in Mannheim | Arts & Culture | [Mozart's 1777 Tour](arts/mozart-1777-tour.md) |
+| 1777 | Coulomb's prize memoir on the magnetic compass introduces the torsion balance to the Académie des Sciences | Science & Discovery | [Coulomb's Torsion Balance and Electrostatics](science/coulomb-electrostatics.md) |
+| 1777 | American privateering against British shipping reaches peak intensity; Parliament responds with the Treason (Pirate) Act | Economics & Trade | [American Privateering During the Revolutionary War](economics/american-privateering-1777.md) |
 | 1777 | Boulton and Watt complete "Old Bess" and secure Cornish mining orders | Economics & Trade | [James Watt's Steam Engine](economics/james-watt-steam-engine.md) |
 <!-- END GENERATED: timeline -->

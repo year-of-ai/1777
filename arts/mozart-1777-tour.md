@@ -45,6 +45,7 @@ K. 271 and the flute works of 1777 show Mozart absorbing and synthesizing divers
 - [Battles of Saratoga](../military/battles-of-saratoga.md) — the American war dominating European diplomatic news during Mozart's tour
 - [Articles of Confederation](../politics/articles-of-confederation.md) — 1777 political framework adopted while Mozart was in Mannheim
 - [Lavoisier's Oxygen Theory](../science/lavoisier-oxygen-theory.md) — parallel 1777 milestone in the European Enlightenment
+- [The School for Scandal](sheridan-school-for-scandal.md) — the year's landmark stage work, premiering in London while Mozart toured the Continent
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

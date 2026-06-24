@@ -1,6 +1,6 @@
 # The Year 1777
 
-> **Status**: This repository is **mature** (generation complete — 21 dedicated topic files spanning all six categories). Successor: [year-of-ai/1778](https://github.com/year-of-ai/1778) — the year 1778.
+> **Status**: This repository is **mature** (generation complete — 24 dedicated topic files spanning all six categories). Successor: [year-of-ai/1778](https://github.com/year-of-ai/1778) — the year 1778.
 
 A self-growing, encyclopedic knowledge base covering the events, people, works, and discoveries of **1777** — the year of the Battles of Saratoga, Valley Forge, the Articles of Confederation, and the Stars and Stripes.
 
@@ -29,10 +29,13 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Howe's 1777 Campaign Strategy](military/howe-strategy-1777.md) | General Howe's strategic decision to pursue Philadelphia rather than reinforce Burgoyne's northern campaign led to tactical victories but strategic failure, ultimately contributing to French entry into the war. |
 | [British occupy Philadelphia](military/british-occupation-philadelphia.md) | British forces occupied Philadelphia on September 26, 1777, forcing the Continental Congress to flee, though the city's capture proved strategically hollow. |
 | [Carl Friedrich Gauss born](people/carl-friedrich-gauss.md) | The mathematician Carl Friedrich Gauss was born on April 30, 1777 in Brunswick — one of the most influential mathematicians in history. |
+| [Coulomb's Torsion Balance and Electrostatics](science/coulomb-electrostatics.md) | Charles-Augustin de Coulomb won an Academy prize in 1777 for his magnetic compass paper, which introduced the torsion balance—a revolutionary device enabling precise measurement of electrostatic forces and laying the foundation for quantitative electrostatics. |
 | [Lavoisier's oxygen theory](science/lavoisier-oxygen-theory.md) | Antoine Lavoisier published "On Combustion in General" in 1777, overthrowing phlogiston theory with quantitative experiments and launching the Chemical Revolution. |
 | [Royal Society Lightning Conductor Controversy](science/royal-society-lightning-controversy-1777.md) | A bitter dispute erupted within the Royal Society over whether lightning conductors should have pointed or rounded tips, with Benjamin Franklin's design becoming entangled with wartime politics and forcing the society's president to resign. |
+| [American Privateering During the Revolutionary War](economics/american-privateering-1777.md) | By 1777, approximately 11,000 privateers operating under Letters of Marque from Congress and states devastated British commerce, capturing ~250 West India ships and causing merchant firms to collapse while inflicting $18 million in total wartime damage. |
 | [James Watt's steam engine improvements](economics/james-watt-steam-engine.md) | Boulton and Watt completed "Old Bess" in 1777 and secured Cornish mining orders, establishing the commercial template for industrial steam power. |
 | [Wolfgang Amadeus Mozart's 1777 tour](arts/mozart-1777-tour.md) | Mozart broke free from Salzburg's court, embarked on a European tour in September 1777, and completed major compositions including Piano Concerto K. 271 and Flute Quartet K. 285. |
+| [The School for Scandal](arts/sheridan-school-for-scandal.md) | Richard Brinsley Sheridan's comedy of manners premiered at Drury Lane on May 8, 1777, becoming one of the greatest comedies in English literature and the most frequently performed play in London for the remainder of the century. |
 | [Lord George Germain](people/lord-george-germain.md) | Secretary of State for the Colonies (1775–1782), Germain bore primary responsibility for British war strategy, but his miscommunication with field commanders precipitated Burgoyne's defeat at Saratoga. |
 | [General John Burgoyne](people/general-john-burgoyne.md) | British general commanding the 1777 northern campaign who surrendered his army at Saratoga on October 17, 1777; his defeat convinced France to enter the war and proved the turning point of the Revolution. |
 | [Sir Henry Clinton](people/sir-henry-clinton.md) | Second-in-command to Howe in 1777, passed over for the northern command and awarded a knighthood as consolation, later became British Commander-in-Chief in America (1778–1782). |

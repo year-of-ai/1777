@@ -105,4 +105,5 @@ The 1777 lightning conductor controversy at the Royal Society illuminates severa
 - [Benjamin Franklin in Paris](../people/benjamin-franklin.md) — inventor of the pointed lightning rod and American envoy to France
 - [Lavoisier's Oxygen Theory](lavoisier-oxygen-theory.md) — the other major scientific milestone of 1777, in chemistry
 - [Franco-American Diplomatic Breakthrough](../economics/franco-american-diplomacy-1777.md) — the diplomatic context in which Franklin's reputation inflamed British opinion
+- [Coulomb's Torsion Balance and Electrostatics](coulomb-electrostatics.md) — the contemporary quantitative study of electrical force on the Continent, advancing precisely as London debated the physics of conductors
 <!-- END GENERATED: crossrefs -->

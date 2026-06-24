@@ -19,15 +19,18 @@ A complete map of all content in this knowledge base, organized by category.
 - → [military/index.md](military/index.md) — full category index
 
 ## Science & Discovery
+- [Coulomb's Torsion Balance and Electrostatics](science/coulomb-electrostatics.md) — 1777 prize memoir on the magnetic compass introducing the torsion balance, foundation of the 1785 inverse-square law of electrostatic force
 - [Lavoisier's Oxygen Theory](science/lavoisier-oxygen-theory.md) — 1777 memoir "On Combustion in General" overturning phlogiston theory and launching the Chemical Revolution
 - [Royal Society Lightning Conductor Controversy](science/royal-society-lightning-controversy-1777.md) — 1777 pointed-vs-rounded lightning rod dispute that became a wartime political proxy and forced the Royal Society president to resign
 - → [science/index.md](science/index.md) — full category index
 
 ## Arts & Culture
+- [The School for Scandal](arts/sheridan-school-for-scandal.md) — Sheridan's comedy of manners premiered at Drury Lane, May 8, 1777; a landmark of English comedy
 - [Wolfgang Amadeus Mozart's 1777 European Tour](arts/mozart-1777-tour.md) — Mozart's break from Salzburg and tour of Munich, Augsburg, and Mannheim; Concerto K. 271 and Flute Quartet K. 285
 - → [arts/index.md](arts/index.md) — full category index
 
 ## Economics & Trade
+- [American Privateering During the Revolutionary War](economics/american-privateering-1777.md) — Letters-of-Marque raiders devastate British commerce in 1777, supplying diplomatic leverage toward the French alliance
 - [Franco-American Diplomatic Breakthrough](economics/franco-american-diplomacy-1777.md) — Saratoga's news reaches Paris, December 1777; French alliance sealed by the February 6, 1778 treaties
 - [James Watt's Steam Engine Improvements](economics/james-watt-steam-engine.md) — "Old Bess" completion and Cornish mining orders, 1777; the fuel-savings licensing template for industrial steam power
 - → [economics/index.md](economics/index.md) — full category index

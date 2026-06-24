@@ -32,4 +32,5 @@ The American victory at Saratoga is widely regarded as the turning point of the 
 - [Valley Forge Encampment](valley-forge.md) — winter encampment that followed Saratoga, where von Steuben trained the Continental Army
 - [General John Burgoyne](../people/general-john-burgoyne.md) — British commander whose army surrendered here on October 17, 1777
 - [Franco-American Diplomatic Breakthrough](../economics/franco-american-diplomacy-1777.md) — the alliance triggered when news of this victory reached Paris
+- [American Privateering During the Revolutionary War](../economics/american-privateering-1777.md) — the maritime pressure on British commerce that, with this victory, helped convince France to intervene
 <!-- END GENERATED: crossrefs -->

@@ -58,4 +58,5 @@ The 1778 alliance enabled France to provide the naval power, military materiel, 
 - [General George Washington](george-washington.md) — Commander-in-Chief whose Valley Forge endurance ran parallel to Franklin's Paris negotiations
 - [Marquis de Lafayette](marquis-de-lafayette.md) — French volunteer whose 1777 arrival in America exemplified the Franco-American connection Franklin was forging
 - [Royal Society Lightning Conductor Controversy](../science/royal-society-lightning-controversy-1777.md) — 1777 dispute in which Franklin's pointed lightning rod became entangled with wartime politics in Britain
+- [American Privateering During the Revolutionary War](../economics/american-privateering-1777.md) — the commerce-raiding campaign Franklin commissioned and exploited from Paris to pressure Britain
 <!-- END GENERATED: crossrefs -->
