@@ -19,7 +19,7 @@ A chronological index of notable events, people, and works of the year 1777.
 | September 19, 1777 | Battle of Freeman's Farm (First Battle of Saratoga) | Military Events | [Battles of Saratoga](military/battles-of-saratoga.md) |
 | September 23, 1777 | Mozart departs Salzburg with his mother on his European tour | Arts & Culture | [Mozart's 1777 Tour](arts/mozart-1777-tour.md) |
 | September 26, 1777 | British forces occupy Philadelphia | Military Events | [British Occupation of Philadelphia](military/british-occupation-philadelphia.md) |
-| October 4, 1777 | Washington's counterattack at the Battle of Germantown fails amid fog and confusion | Key Figures | [General George Washington](people/george-washington.md) |
+| October 4, 1777 | Washington's counterattack at the Battle of Germantown fails amid fog and confusion | Military Events | [Battle of Germantown](military/battle-of-germantown.md) |
 | October 6, 1777 | Clinton captures Forts Clinton and Montgomery in his Hudson River relief offensive | Key Figures | [Sir Henry Clinton](people/sir-henry-clinton.md) |
 | October 7, 1777 | Battle of Bemis Heights (Second Battle of Saratoga) | Military Events | [Battles of Saratoga](military/battles-of-saratoga.md) |
 | October 17, 1777 | Burgoyne surrenders at Saratoga | Military Events | [Battles of Saratoga](military/battles-of-saratoga.md) |

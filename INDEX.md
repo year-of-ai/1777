@@ -14,6 +14,7 @@ A complete map of all content in this knowledge base, organized by category.
 - [Battle of Brandywine](military/battle-of-brandywine.md) — Largest single-day battle of the Revolutionary War; Howe defeated Washington, September 11, 1777
 - [Battles of Saratoga](military/battles-of-saratoga.md) — American victory culminating in Burgoyne's surrender, October 17, 1777
 - [British Occupation of Philadelphia](military/british-occupation-philadelphia.md) — British capture and eight-month occupation of the American capital, September 1777–June 1778
+- [Battle of Germantown](military/battle-of-germantown.md) — Washington's four-column counterattack on the British camp, repulsed amid fog and friendly fire, October 4, 1777
 - [Howe's 1777 Campaign Strategy](military/howe-strategy-1777.md) — Howe's choice to take Philadelphia by sea instead of supporting Burgoyne; tactical wins, strategic disaster at Saratoga
 - [Valley Forge Encampment](military/valley-forge.md) — Continental Army winter encampment; von Steuben's transformative training, December 1777–June 1778
 - → [military/index.md](military/index.md) — full category index

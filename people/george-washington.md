@@ -13,7 +13,7 @@ category: "Key Figures"
 
 George Washington served as Commander-in-Chief of the Continental Army throughout 1777, a year of profound trials and ultimate transformation. The year opened with strategic promise following the victories at Trenton (December 26, 1776) and Princeton (January 3, 1777), but quickly entered a cascade of defeats and deprivations. Washington lost the critical [Battle of Brandywine](../military/battle-of-brandywine.md) on September 11, 1777, to British General William Howe, suffering approximately 1,300 casualties — killed, wounded, and captured — against British losses of roughly 587. The defeat opened the road to Philadelphia. Five days later, a British night attack dispersed part of his army at the Battle of the Clouds (September 16). Unable to mount a successful defense of the revolutionary capital, Washington was forced to watch British forces under General Charles Cornwallis occupy Philadelphia on September 26, 1777.
 
-Washington's attempted counterattack at the Battle of Germantown on October 4, 1777, briefly succeeded — multiple American columns pierced British lines — but a combination of morning fog, a misfired signal, and American units firing on each other turned near-victory into an expensive retreat. Washington lost approximately 1,100 more men at Germantown.
+Washington's attempted counterattack at the [Battle of Germantown](../military/battle-of-germantown.md) on October 4, 1777, briefly succeeded — multiple American columns pierced British lines — but a combination of morning fog, a misfired signal, and American units firing on each other turned near-victory into an expensive retreat. Washington lost approximately 1,100 more men at Germantown.
 
 On December 19, 1777, Washington led an army of approximately 11,000 men into winter encampment at Valley Forge, Pennsylvania, 18 miles northwest of Philadelphia. By the time the army broke camp in June 1778, between 2,000 and 3,000 soldiers — estimates vary — had died, primarily from typhus, typhoid fever, dysentery, and pneumonia rather than from cold. The crisis was compounded by a broken supply system: on December 23, 1777, Washington wrote to Congress that he had 2,898 men "unfit for duty because they are barefoot and otherwise naked."
 
@@ -60,6 +60,7 @@ His political survival during the Conway Cabal showed he could navigate the civi
 ## Related
 
 - [Battle of Brandywine](../military/battle-of-brandywine.md) — Washington's September 11, 1777 defeat that opened Philadelphia to British capture
+- [Battle of Germantown](../military/battle-of-germantown.md) — Washington's bold October 4, 1777 counterattack on the British camp, repulsed amid fog and friendly fire
 - [Valley Forge encampment](../military/valley-forge.md) — the December 1777 winter camp where Washington's army was transformed
 - [Battles of Saratoga](../military/battles-of-saratoga.md) — Gates's October 1777 victory that triggered the French alliance Washington needed
 - [General John Burgoyne](general-john-burgoyne.md) — British commander whose defeat at Saratoga shadowed Washington's Pennsylvania defeats

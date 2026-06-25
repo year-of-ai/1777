@@ -29,7 +29,7 @@ The most celebrated social event of the occupation was the Mischianza, an elabor
 
 ## The Battle of Germantown and Control of the Delaware
 
-Washington attempted to recapture Philadelphia by attacking the British garrison at Germantown, then the northern suburb of the city, on October 4, 1777. His plan involved four separate columns converging simultaneously on the British encampment — an ambitious concept that the army's command and communication capabilities could not fully execute. Fog, friendly-fire incidents, and a tenacious British defense of the Chew House (Cliveden) disrupted the attack, and the American assault was ultimately repulsed with approximately 1,000 American casualties to British losses of around 535.
+Washington attempted to recapture Philadelphia by attacking the British garrison at [Germantown](battle-of-germantown.md), then the northern suburb of the city, on October 4, 1777. His plan involved four separate columns converging simultaneously on the British encampment — an ambitious concept that the army's command and communication capabilities could not fully execute. Fog, friendly-fire incidents, and a tenacious British defense of the Chew House (Cliveden) disrupted the attack, and the American assault was ultimately repulsed with approximately 1,000 American casualties to British losses of around 535.
 
 Control of the Delaware River, the main supply artery to Philadelphia, remained contested throughout the occupation. The British required access to the river to resupply the city from their naval base at New York. American forces had constructed defensive works at Fort Mifflin (on Mud Island) and Fort Mercer (at Red Bank, New Jersey), and a Hessian assault on Fort Mercer had been bloodily repulsed at the Battle of Red Bank on October 22, 1777. After a sustained British bombardment, the American garrison abandoned Fort Mifflin on the night of November 15; five days later, as Cornwallis advanced with about 2,000 troops, the defenders of Fort Mercer burned the works and evacuated on the night of November 20–21. With the Delaware forts eliminated, the river route was open, but only after the city had endured six weeks of supply difficulties.
 
@@ -56,6 +56,7 @@ The period of the occupation also coincided with the transformation of the Conti
 ## Related
 
 - [Battle of Brandywine](battle-of-brandywine.md) — American defeat that opened the road to Philadelphia, fought September 11, 1777
+- [Battle of Germantown](battle-of-germantown.md) — Washington's October 4, 1777 attempt to dislodge the British army from its camp outside the occupied capital
 - [Valley Forge Encampment](valley-forge.md) — Washington's army wintered twenty miles from British-held Philadelphia, December 1777–June 1778
 - [Battles of Saratoga](battles-of-saratoga.md) — concurrent American victory that brought France into the war, fatally undermining the strategic value of holding Philadelphia
 - [Articles of Confederation](../politics/articles-of-confederation.md) — adopted by the evacuated Continental Congress on November 15, 1777, while Congress sat at York, Pennsylvania

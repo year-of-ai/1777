@@ -74,6 +74,7 @@ Howe's 1777 strategy and its consequences marked a crucial turning point in the 
 ## Related
 
 - [Battle of Brandywine](battle-of-brandywine.md) — the largest engagement of Howe's Philadelphia campaign
+- [Battle of Germantown](battle-of-germantown.md) — Washington's counterattack on Howe's encampment, October 4, 1777
 - [British Occupation of Philadelphia](british-occupation-philadelphia.md) — the eight-month occupation that followed Howe's capture of the city
 - [Battles of Saratoga](battles-of-saratoga.md) — the catastrophic outcome of Burgoyne's unsupported northern advance
 - [Valley Forge Encampment](valley-forge.md) — the Continental Army's winter encampment following Howe's Philadelphia victories

@@ -27,6 +27,7 @@ Valley Forge transformed the Continental Army from a force struggling with incon
 ## Related
 
 - [Battle of Brandywine](battle-of-brandywine.md) — the September 11, 1777 defeat that opened the Philadelphia campaign whose close drove the army into winter quarters here
+- [Battle of Germantown](battle-of-germantown.md) — the army's last major offensive, October 4, 1777, before it withdrew into this encampment
 - [British Occupation of Philadelphia](british-occupation-philadelphia.md) — Washington's army wintered at Valley Forge roughly twenty miles from the British-held capital
 - [General George Washington](../people/george-washington.md) — Commander-in-Chief who led the army into this encampment and presided over its transformation
 - [Marquis de Lafayette](../people/marquis-de-lafayette.md) — French major general who wintered here and spent his own funds on the suffering troops
