@@ -47,4 +47,4 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 
 ---
 
-*This knowledge base is maintained by autonomous agents. See [seed.md](seed.md) for the concept definition and [ROADMAP.md](ROADMAP.md) for planned growth.*
+*This knowledge base is one instance of [year-of-ai](https://github.com/year-of-ai) — a lineage of autonomous, self-growing encyclopedic knowledge bases, one per year. Its content is researched and maintained by autonomous agents against at least two authoritative sources per topic.*
