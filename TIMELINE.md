@@ -13,11 +13,13 @@ A chronological index of notable events, people, and works of the year 1777.
 | June 13, 1777 | Marquis de Lafayette arrives on the South Carolina coast | Key Figures | [Marquis de Lafayette](people/marquis-de-lafayette.md) |
 | June 14, 1777 | Flag Resolution — Stars and Stripes adopted | Political Events | [Flag Resolution](politics/flag-resolution.md) |
 | July 8, 1777 | Vermont Constitution adopted | Political Events | [Vermont Constitution](politics/vermont-constitution.md) |
+| August 3, 1777 | Haydn's opera buffa *Il mondo della luna* premieres at Eszterháza for Count Anton Esterházy's wedding | Arts & Culture | [Haydn's Il mondo della luna](arts/haydn-il-mondo-della-luna.md) |
 | August 25, 1777 | Howe's army lands at Head of Elk, Maryland, opening the Philadelphia campaign | Military Events | [Howe's 1777 Campaign Strategy](military/howe-strategy-1777.md) |
 | September 5, 1777 | Lavoisier reads "Mémoire sur la combustion en général" to the Paris Académie | Science & Discovery | [Lavoisier's Oxygen Theory](science/lavoisier-oxygen-theory.md) |
 | September 11, 1777 | Battle of Brandywine | Military Events | [Battle of Brandywine](military/battle-of-brandywine.md) |
 | September 19, 1777 | Battle of Freeman's Farm (First Battle of Saratoga) | Military Events | [Battles of Saratoga](military/battles-of-saratoga.md) |
 | September 23, 1777 | Mozart departs Salzburg with his mother on his European tour | Arts & Culture | [Mozart's 1777 Tour](arts/mozart-1777-tour.md) |
+| September 23, 1777 | Gluck's *Armide* premieres at the Académie Royale de Musique in Paris | Arts & Culture | [Gluck's Armide](arts/gluck-armide.md) |
 | September 26, 1777 | British forces occupy Philadelphia | Military Events | [British Occupation of Philadelphia](military/british-occupation-philadelphia.md) |
 | October 4, 1777 | Washington's counterattack at the Battle of Germantown fails amid fog and confusion | Military Events | [Battle of Germantown](military/battle-of-germantown.md) |
 | October 6, 1777 | Clinton captures Forts Clinton and Montgomery in his Hudson River relief offensive | Key Figures | [Sir Henry Clinton](people/sir-henry-clinton.md) |
@@ -30,4 +32,5 @@ A chronological index of notable events, people, and works of the year 1777.
 | 1777 | Coulomb's prize memoir on the magnetic compass introduces the torsion balance to the Académie des Sciences | Science & Discovery | [Coulomb's Torsion Balance and Electrostatics](science/coulomb-electrostatics.md) |
 | 1777 | American privateering against British shipping reaches peak intensity; Parliament responds with the Treason (Pirate) Act | Economics & Trade | [American Privateering During the Revolutionary War](economics/american-privateering-1777.md) |
 | 1777 | Boulton and Watt complete "Old Bess" and secure Cornish mining orders | Economics & Trade | [James Watt's Steam Engine](economics/james-watt-steam-engine.md) |
+| 1777 | Şahin Giray consolidates the Crimean khanate with Russian backing; reform program triggers an autumn rebellion | Political Events | [Shahin Giray becomes Crimean Khan](politics/shahin-giray-crimean-khan.md) |
 <!-- END GENERATED: timeline -->

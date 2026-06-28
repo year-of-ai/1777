@@ -44,6 +44,9 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Marquis de Lafayette arrives in America](people/marquis-de-lafayette.md) | The French aristocrat and volunteer major general arrived on June 13, 1777, and became George Washington's closest aide and most trusted commander, exemplifying international support for American independence. |
 | [General George Washington](people/george-washington.md) | Commander-in-Chief of the Continental Army through the year's defeats (Brandywine, Germantown) and triumph at Valley Forge, Washington's 1777 leadership proved pivotal to surviving the Revolution's darkest hour. |
 | [Benjamin Franklin in Paris](people/benjamin-franklin.md) | The aging diplomat and elder statesman spent 1777 in Paris negotiating with the French court, building the diplomatic consensus that Saratoga's October victory would convert into the formal alliance of February 1778. |
+| [Gluck's Armide](arts/gluck-armide.md) | Christoph Willibald Gluck's operatic masterwork premiered at the Paris Académie Royale on September 23, 1777, igniting the famous Gluckistes versus Piccinnistes artistic controversy that reshaped French musical culture. |
+| [Shahin Giray becomes Crimean Khan](politics/shahin-giray-crimean-khan.md) | The last independent Khan of Crimea, installed in 1777 with Russian backing, Shahin Giray attempted European-style administrative modernization and religious pluralism—reforms that provoked rebellion and prefigured Russia's 1783 annexation of the Khanate. |
+| [Haydn's Il mondo della luna](arts/haydn-il-mondo-della-luna.md) | Joseph Haydn's comic opera (opera buffa) premiered August 3, 1777 at Prince Esterházy's court, featuring Goldoni's witty libretto about an astronomer who fools a merchant into believing he visited the moon. |
 
 ---
 

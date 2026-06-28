@@ -7,6 +7,7 @@ A complete map of all content in this knowledge base, organized by category.
 - [Articles of Confederation](politics/articles-of-confederation.md) — First formal governing compact of the thirteen United States, adopted November 15, 1777
 - [Flag Resolution — Stars and Stripes](politics/flag-resolution.md) — Continental Congress resolution establishing the Stars and Stripes, June 14, 1777
 - [Massachusetts Anti-Slavery Petition](politics/massachusetts-slavery-petition-1777.md) — Prince Hall and seven others petition for abolition on Revolutionary principles, January 13, 1777
+- [Shahin Giray becomes Crimean Khan](politics/shahin-giray-crimean-khan.md) — Russia installs the last independent Crimean khan in 1776–1777; his modernization sparks the 1777 rebellion and prefigures the 1783 annexation
 - [Vermont Constitution](politics/vermont-constitution.md) — First North American constitution to ban adult slavery and grant universal male suffrage, July 8, 1777
 - → [politics/index.md](politics/index.md) — full category index
 
@@ -26,6 +27,8 @@ A complete map of all content in this knowledge base, organized by category.
 - → [science/index.md](science/index.md) — full category index
 
 ## Arts & Culture
+- [Gluck's Armide](arts/gluck-armide.md) — Gluck's final Paris opera premiered September 23, 1777, setting Quinault's 1686 libretto and inflaming the Gluckistes–Piccinnistes controversy
+- [Haydn's Il mondo della luna](arts/haydn-il-mondo-della-luna.md) — Haydn's opera buffa on Goldoni's libretto premiered at Eszterháza, August 3, 1777, for Count Anton Esterházy's wedding
 - [The School for Scandal](arts/sheridan-school-for-scandal.md) — Sheridan's comedy of manners premiered at Drury Lane, May 8, 1777; a landmark of English comedy
 - [Wolfgang Amadeus Mozart's 1777 European Tour](arts/mozart-1777-tour.md) — Mozart's break from Salzburg and tour of Munich, Augsburg, and Mannheim; Concerto K. 271 and Flute Quartet K. 285
 - → [arts/index.md](arts/index.md) — full category index
