@@ -56,6 +56,7 @@ The same year that Lavoisier was overturning chemistry's foundational assumption
 - [Battles of Saratoga](../military/battles-of-saratoga.md) — 1777 turning point in the American Revolutionary War, contemporary with Lavoisier's memoir
 - [Royal Society Lightning Conductor Controversy](royal-society-lightning-controversy-1777.md) — the other major scientific episode of 1777, where Franklin's electrical theory collided with wartime politics
 - [Coulomb's Torsion Balance and Electrostatics](coulomb-electrostatics.md) — a parallel French shift from qualitative description to quantitative law, replacing the "electrical fluid" as Lavoisier displaced phlogiston
+- [William Herschel's Telescopes and Deep-Sky Observations](herschel-telescopes-deep-sky.md) — Herschel's systematic sky surveys mirrored Lavoisier's quantitative, methodical reform of natural philosophy
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

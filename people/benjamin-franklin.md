@@ -59,4 +59,5 @@ The 1778 alliance enabled France to provide the naval power, military materiel, 
 - [Marquis de Lafayette](marquis-de-lafayette.md) — French volunteer whose 1777 arrival in America exemplified the Franco-American connection Franklin was forging
 - [Royal Society Lightning Conductor Controversy](../science/royal-society-lightning-controversy-1777.md) — 1777 dispute in which Franklin's pointed lightning rod became entangled with wartime politics in Britain
 - [American Privateering During the Revolutionary War](../economics/american-privateering-1777.md) — the commerce-raiding campaign Franklin commissioned and exploited from Paris to pressure Britain
+- [The Marriage of Figaro (Beaumarchais)](../arts/beaumarchais-marriage-of-figaro.md) — Beaumarchais's covert arms operation paralleled Franklin's Paris diplomacy in aiding the Revolution
 <!-- END GENERATED: crossrefs -->

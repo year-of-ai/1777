@@ -1,6 +1,6 @@
 # The Year 1777
 
-> **Status**: This repository is **mature** (generation complete — 28 dedicated topic files spanning all six categories). Successor: [year-of-ai/1778](https://github.com/year-of-ai/1778) — the year 1778.
+> **Status**: This repository is **mature** (generation complete — 30 dedicated topic files spanning all six categories). Successor: [year-of-ai/1778](https://github.com/year-of-ai/1778) — the year 1778.
 
 A self-growing, encyclopedic knowledge base covering the events, people, works, and discoveries of **1777** — the year of the Battles of Saratoga, Valley Forge, the Articles of Confederation, and the Stars and Stripes.
 
@@ -47,6 +47,8 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Gluck's Armide](arts/gluck-armide.md) | Christoph Willibald Gluck's operatic masterwork premiered at the Paris Académie Royale on September 23, 1777, igniting the famous Gluckistes versus Piccinnistes artistic controversy that reshaped French musical culture. |
 | [Shahin Giray becomes Crimean Khan](politics/shahin-giray-crimean-khan.md) | The last independent Khan of Crimea, installed in 1777 with Russian backing, Shahin Giray attempted European-style administrative modernization and religious pluralism—reforms that provoked rebellion and prefigured Russia's 1783 annexation of the Khanate. |
 | [Haydn's Il mondo della luna](arts/haydn-il-mondo-della-luna.md) | Joseph Haydn's comic opera (opera buffa) premiered August 3, 1777 at Prince Esterházy's court, featuring Goldoni's witty libretto about an astronomer who fools a merchant into believing he visited the moon. |
+| [Beaumarchais' Marriage of Figaro (composition in 1777)](arts/beaumarchais-marriage-of-figaro.md) | Beaumarchais wrote his political masterwork during 1777–1778, banned by King Louis XVI for attacking aristocratic privilege, composed while simultaneously running an arms-supply operation supporting the American Revolution. |
+| [William Herschel's Telescopes and Deep-Sky Observations](science/herschel-telescopes-deep-sky.md) | In 1777, William Herschel relocated to Bath and began constructing precision Newtonian reflectors and systematic sky surveys that culminated in the discovery of Uranus in 1781 and revolutionized observational astronomy. |
 
 ---
 

@@ -57,4 +57,5 @@ The unit of electrical charge—the coulomb (C), equal to approximately 6.24 × 
 - [Lavoisier and Oxygen Theory](lavoisier-oxygen-theory.md) — simultaneous French scientific revolution in chemistry, replacing phlogiston with quantitative methods analogous to Coulomb's in electrostatics
 - [Royal Society Lightning Controversy 1777](royal-society-lightning-controversy-1777.md) — London debates over electrical conductors that heightened European interest in the physics of charge precisely when Coulomb was refining his balance
 - [James Watt and the Steam Engine](../economics/james-watt-steam-engine.md) — another 1777 landmark in precision engineering and quantitative measurement of physical forces
+- [William Herschel's Telescopes and Deep-Sky Observations](herschel-telescopes-deep-sky.md) — contemporaneous instrument-driven precision science; Herschel's hand-ground reflectors paralleled Coulomb's torsion balance
 <!-- END GENERATED: crossrefs -->

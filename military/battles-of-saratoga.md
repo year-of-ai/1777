@@ -33,4 +33,5 @@ The American victory at Saratoga is widely regarded as the turning point of the 
 - [General John Burgoyne](../people/general-john-burgoyne.md) — British commander whose army surrendered here on October 17, 1777
 - [Franco-American Diplomatic Breakthrough](../economics/franco-american-diplomacy-1777.md) — the alliance triggered when news of this victory reached Paris
 - [American Privateering During the Revolutionary War](../economics/american-privateering-1777.md) — the maritime pressure on British commerce that, with this victory, helped convince France to intervene
+- [The Marriage of Figaro (Beaumarchais)](../arts/beaumarchais-marriage-of-figaro.md) — the playwright's covert arms-supply network helped equip the American forces that triumphed here
 <!-- END GENERATED: crossrefs -->

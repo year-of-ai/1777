@@ -46,6 +46,7 @@ K. 271 and the flute works of 1777 show Mozart absorbing and synthesizing divers
 - [Articles of Confederation](../politics/articles-of-confederation.md) — 1777 political framework adopted while Mozart was in Mannheim
 - [Lavoisier's Oxygen Theory](../science/lavoisier-oxygen-theory.md) — parallel 1777 milestone in the European Enlightenment
 - [The School for Scandal](sheridan-school-for-scandal.md) — the year's landmark stage work, premiering in London while Mozart toured the Continent
+- [The Marriage of Figaro (Beaumarchais)](beaumarchais-marriage-of-figaro.md) — Beaumarchais's 1777–1778 play that Mozart and da Ponte later adapted as *Le nozze di Figaro* (1786)
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

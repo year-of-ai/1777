@@ -45,4 +45,5 @@ Gauss died on February 23, 1855, in Göttingen, where he had served as director 
 - [Articles of Confederation](../politics/articles-of-confederation.md) — foundational American political document adopted November 15, 1777, the year of Gauss's birth
 - [Flag Resolution — Stars and Stripes](../politics/flag-resolution.md) — national symbol established June 14, 1777, in the same year Gauss was born
 - [Battles of Saratoga](../military/battles-of-saratoga.md) — defining military event of 1777, the year that produced both Gauss and American independence's turning point
+- [William Herschel's Telescopes and Deep-Sky Observations](../science/herschel-telescopes-deep-sky.md) — Herschel's 1781 discovery of Uranus underpinned the orbital mechanics Gauss advanced with his 1801 recovery of Ceres
 <!-- END GENERATED: crossrefs -->

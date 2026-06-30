@@ -106,4 +106,5 @@ The 1777 lightning conductor controversy at the Royal Society illuminates severa
 - [Lavoisier's Oxygen Theory](lavoisier-oxygen-theory.md) — the other major scientific milestone of 1777, in chemistry
 - [Franco-American Diplomatic Breakthrough](../economics/franco-american-diplomacy-1777.md) — the diplomatic context in which Franklin's reputation inflamed British opinion
 - [Coulomb's Torsion Balance and Electrostatics](coulomb-electrostatics.md) — the contemporary quantitative study of electrical force on the Continent, advancing precisely as London debated the physics of conductors
+- [William Herschel's Telescopes and Deep-Sky Observations](herschel-telescopes-deep-sky.md) — the same Royal Society at the centre of this dispute awarded Herschel its Copley Medal in 1781
 <!-- END GENERATED: crossrefs -->

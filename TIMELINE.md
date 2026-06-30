@@ -21,6 +21,7 @@ A chronological index of notable events, people, and works of the year 1777.
 | September 23, 1777 | Mozart departs Salzburg with his mother on his European tour | Arts & Culture | [Mozart's 1777 Tour](arts/mozart-1777-tour.md) |
 | September 23, 1777 | Gluck's *Armide* premieres at the Académie Royale de Musique in Paris | Arts & Culture | [Gluck's Armide](arts/gluck-armide.md) |
 | September 26, 1777 | British forces occupy Philadelphia | Military Events | [British Occupation of Philadelphia](military/british-occupation-philadelphia.md) |
+| October 1777 | William Herschel begins systematic astronomical observation (Mira Ceti) from his new Bath workshop at 19 New King Street | Science & Discovery | [William Herschel's Telescopes and Deep-Sky Observations](science/herschel-telescopes-deep-sky.md) |
 | October 4, 1777 | Washington's counterattack at the Battle of Germantown fails amid fog and confusion | Military Events | [Battle of Germantown](military/battle-of-germantown.md) |
 | October 6, 1777 | Clinton captures Forts Clinton and Montgomery in his Hudson River relief offensive | Key Figures | [Sir Henry Clinton](people/sir-henry-clinton.md) |
 | October 7, 1777 | Battle of Bemis Heights (Second Battle of Saratoga) | Military Events | [Battles of Saratoga](military/battles-of-saratoga.md) |
@@ -33,4 +34,5 @@ A chronological index of notable events, people, and works of the year 1777.
 | 1777 | American privateering against British shipping reaches peak intensity; Parliament responds with the Treason (Pirate) Act | Economics & Trade | [American Privateering During the Revolutionary War](economics/american-privateering-1777.md) |
 | 1777 | Boulton and Watt complete "Old Bess" and secure Cornish mining orders | Economics & Trade | [James Watt's Steam Engine](economics/james-watt-steam-engine.md) |
 | 1777 | Şahin Giray consolidates the Crimean khanate with Russian backing; reform program triggers an autumn rebellion | Political Events | [Shahin Giray becomes Crimean Khan](politics/shahin-giray-crimean-khan.md) |
+| 1777–1778 | Beaumarchais writes *The Marriage of Figaro* while running covert arms shipments to the American Revolution | Arts & Culture | [The Marriage of Figaro (Beaumarchais)](arts/beaumarchais-marriage-of-figaro.md) |
 <!-- END GENERATED: timeline -->

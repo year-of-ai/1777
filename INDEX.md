@@ -24,11 +24,13 @@ A complete map of all content in this knowledge base, organized by category.
 - [Coulomb's Torsion Balance and Electrostatics](science/coulomb-electrostatics.md) — 1777 prize memoir on the magnetic compass introducing the torsion balance, foundation of the 1785 inverse-square law of electrostatic force
 - [Lavoisier's Oxygen Theory](science/lavoisier-oxygen-theory.md) — 1777 memoir "On Combustion in General" overturning phlogiston theory and launching the Chemical Revolution
 - [Royal Society Lightning Conductor Controversy](science/royal-society-lightning-controversy-1777.md) — 1777 pointed-vs-rounded lightning rod dispute that became a wartime political proxy and forced the Royal Society president to resign
+- [William Herschel's Telescopes and Deep-Sky Observations](science/herschel-telescopes-deep-sky.md) — Bath workshop and systematic sky surveys begun in 1777; the precision reflectors that yielded the 1781 discovery of Uranus
 - → [science/index.md](science/index.md) — full category index
 
 ## Arts & Culture
 - [Gluck's Armide](arts/gluck-armide.md) — Gluck's final Paris opera premiered September 23, 1777, setting Quinault's 1686 libretto and inflaming the Gluckistes–Piccinnistes controversy
 - [Haydn's Il mondo della luna](arts/haydn-il-mondo-della-luna.md) — Haydn's opera buffa on Goldoni's libretto premiered at Eszterháza, August 3, 1777, for Count Anton Esterházy's wedding
+- [The Marriage of Figaro (composition in 1777)](arts/beaumarchais-marriage-of-figaro.md) — Beaumarchais's political comedy written 1777–1778 and banned by Louis XVI; composed while he ran covert arms shipments to the American Revolution
 - [The School for Scandal](arts/sheridan-school-for-scandal.md) — Sheridan's comedy of manners premiered at Drury Lane, May 8, 1777; a landmark of English comedy
 - [Wolfgang Amadeus Mozart's 1777 European Tour](arts/mozart-1777-tour.md) — Mozart's break from Salzburg and tour of Munich, Augsburg, and Mannheim; Concerto K. 271 and Flute Quartet K. 285
 - → [arts/index.md](arts/index.md) — full category index

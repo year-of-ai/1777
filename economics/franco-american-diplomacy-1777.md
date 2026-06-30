@@ -86,4 +86,5 @@ The commercial dimensions of the alliance proved significant beyond the war itse
 - [Lord George Germain](../people/lord-george-germain.md) — Secretary of State whose strategic failures produced the defeat that brought France into the war
 - [Benjamin Franklin in Paris](../people/benjamin-franklin.md) — diplomat who led the commission that converted Saratoga's news into the formal alliance
 - [American Privateering During the Revolutionary War](american-privateering-1777.md) — the maritime campaign Franklin coordinated from Paris that pressured British commerce alongside the diplomatic effort
+- [The Marriage of Figaro (Beaumarchais)](../arts/beaumarchais-marriage-of-figaro.md) — its author ran the covert arms-supply house Rodrigue Hortalez et Compagnie, materially aiding the cause this diplomacy served
 <!-- END GENERATED: crossrefs -->
