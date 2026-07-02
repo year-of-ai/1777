@@ -12,6 +12,7 @@ A complete map of all content in this knowledge base, organized by category.
 - → [politics/index.md](politics/index.md) — full category index
 
 ## Military Events
+- [Battle of Bennington](military/battle-of-bennington.md) — Stark's New England militia destroyed a German foraging detachment near Walloomsac, crippling Burgoyne before Saratoga, August 16, 1777
 - [Battle of Brandywine](military/battle-of-brandywine.md) — Largest single-day battle of the Revolutionary War; Howe defeated Washington, September 11, 1777
 - [Battles of Saratoga](military/battles-of-saratoga.md) — American victory culminating in Burgoyne's surrender, October 17, 1777
 - [British Occupation of Philadelphia](military/british-occupation-philadelphia.md) — British capture and eight-month occupation of the American capital, September 1777–June 1778

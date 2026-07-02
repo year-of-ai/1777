@@ -1,6 +1,6 @@
 # The Year 1777
 
-> **Status**: This repository is **mature** (generation complete — 30 dedicated topic files spanning all six categories). Successor: [year-of-ai/1778](https://github.com/year-of-ai/1778) — the year 1778.
+> **Status**: This repository is **mature** (generation complete — 31 dedicated topic files spanning all six categories). Successor: [year-of-ai/1778](https://github.com/year-of-ai/1778) — the year 1778.
 
 A self-growing, encyclopedic knowledge base covering the events, people, works, and discoveries of **1777** — the year of the Battles of Saratoga, Valley Forge, the Articles of Confederation, and the Stars and Stripes.
 
@@ -29,6 +29,7 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Howe's 1777 Campaign Strategy](military/howe-strategy-1777.md) | General Howe's strategic decision to pursue Philadelphia rather than reinforce Burgoyne's northern campaign led to tactical victories but strategic failure, ultimately contributing to French entry into the war. |
 | [British occupy Philadelphia](military/british-occupation-philadelphia.md) | British forces occupied Philadelphia on September 26, 1777, forcing the Continental Congress to flee, though the city's capture proved strategically hollow. |
 | [Battle of Germantown](military/battle-of-germantown.md) | Washington's ambitious four-column counterattack on October 4, 1777, collapsed amid fog and friendly fire, but the bold offensive impressed France and bolstered the case for alliance. |
+| [Battle of Bennington](military/battle-of-bennington.md) | John Stark's New England militia destroyed a German foraging detachment near Walloomsac on August 16, 1777, crippling Burgoyne's army before Saratoga. |
 | [Carl Friedrich Gauss born](people/carl-friedrich-gauss.md) | The mathematician Carl Friedrich Gauss was born on April 30, 1777 in Brunswick — one of the most influential mathematicians in history. |
 | [Coulomb's Torsion Balance and Electrostatics](science/coulomb-electrostatics.md) | Charles-Augustin de Coulomb won an Academy prize in 1777 for his magnetic compass paper, which introduced the torsion balance—a revolutionary device enabling precise measurement of electrostatic forces and laying the foundation for quantitative electrostatics. |
 | [Lavoisier's oxygen theory](science/lavoisier-oxygen-theory.md) | Antoine Lavoisier published "On Combustion in General" in 1777, overthrowing phlogiston theory with quantitative experiments and launching the Chemical Revolution. |

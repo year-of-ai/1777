@@ -28,6 +28,7 @@ The American victory at Saratoga is widely regarded as the turning point of the 
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 ## Related
 
+- [Battle of Bennington](battle-of-bennington.md) — the August 16, 1777 precursor victory that stripped Burgoyne of nearly a thousand men and much of his supply before this campaign
 - [British Occupation of Philadelphia](british-occupation-philadelphia.md) — concurrent southern campaign whose strategic value Saratoga's outcome fatally undermined
 - [Valley Forge Encampment](valley-forge.md) — winter encampment that followed Saratoga, where von Steuben trained the Continental Army
 - [General John Burgoyne](../people/general-john-burgoyne.md) — British commander whose army surrendered here on October 17, 1777

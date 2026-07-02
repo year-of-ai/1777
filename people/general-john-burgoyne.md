@@ -72,6 +72,7 @@ Burgoyne's personal reputation survived the military disaster with greater integ
 ## Related
 
 - [Battles of Saratoga](../military/battles-of-saratoga.md) — the September–October 1777 engagements that ended in Burgoyne's surrender
+- [Battle of Bennington](../military/battle-of-bennington.md) — the August 1777 foraging disaster that cost Burgoyne nearly a thousand men before Saratoga
 - [Lord George Germain](lord-george-germain.md) — Secretary of State whose uncoordinated orders left Burgoyne's campaign unsupported
 - [Sir Henry Clinton](sir-henry-clinton.md) — passed over for the northern command, later mounted the too-late Hudson River relief
 - [Franco-American Diplomatic Breakthrough](../economics/franco-american-diplomacy-1777.md) — the alliance triggered by Burgoyne's defeat at Saratoga
