@@ -40,9 +40,11 @@ A complete map of all content in this knowledge base, organized by category.
 - [American Privateering During the Revolutionary War](economics/american-privateering-1777.md) — Letters-of-Marque raiders devastate British commerce in 1777, supplying diplomatic leverage toward the French alliance
 - [Franco-American Diplomatic Breakthrough](economics/franco-american-diplomacy-1777.md) — Saratoga's news reaches Paris, December 1777; French alliance sealed by the February 6, 1778 treaties
 - [James Watt's Steam Engine Improvements](economics/james-watt-steam-engine.md) — "Old Bess" completion and Cornish mining orders, 1777; the fuel-savings licensing template for industrial steam power
+- [Warren Hastings and the East India Company in 1777](economics/warren-hastings-1777.md) — Governor-General of Bengal consolidates power after Clavering's death as the American Revolution widens the Anglo-French conflict into Asia
 - → [economics/index.md](economics/index.md) — full category index
 
 ## Key Figures
+- [Abigail Adams](people/abigail-adams.md) — Manager of the Braintree farm and chronicler of the 1777 home front through her correspondence with John Adams in Congress
 - [Benjamin Franklin in Paris](people/benjamin-franklin.md) — Diplomat whose 1777 Paris commission converted Saratoga's victory into the February 1778 French alliance
 - [Carl Friedrich Gauss](people/carl-friedrich-gauss.md) — Mathematician born April 30, 1777; later made foundational contributions to number theory, algebra, geometry, and physics
 - [General George Washington](people/george-washington.md) — Continental Army Commander-in-Chief through Brandywine, Germantown, and the Valley Forge winter of 1777

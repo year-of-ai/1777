@@ -13,9 +13,11 @@ A chronological index of notable events, people, and works of the year 1777.
 | June 13, 1777 | Marquis de Lafayette arrives on the South Carolina coast | Key Figures | [Marquis de Lafayette](people/marquis-de-lafayette.md) |
 | June 14, 1777 | Flag Resolution — Stars and Stripes adopted | Political Events | [Flag Resolution](politics/flag-resolution.md) |
 | July 8, 1777 | Vermont Constitution adopted | Political Events | [Vermont Constitution](politics/vermont-constitution.md) |
+| July 11, 1777 | Abigail Adams gives birth to a stillborn daughter, Elizabeth, at Braintree amid wartime hardship | Key Figures | [Abigail Adams](people/abigail-adams.md) |
 | August 3, 1777 | Haydn's opera buffa *Il mondo della luna* premieres at Eszterháza for Count Anton Esterházy's wedding | Arts & Culture | [Haydn's Il mondo della luna](arts/haydn-il-mondo-della-luna.md) |
 | August 16, 1777 | Battle of Bennington — Stark's militia destroy Burgoyne's foraging detachment near Walloomsac | Military Events | [Battle of Bennington](military/battle-of-bennington.md) |
 | August 25, 1777 | Howe's army lands at Head of Elk, Maryland, opening the Philadelphia campaign | Military Events | [Howe's 1777 Campaign Strategy](military/howe-strategy-1777.md) |
+| August 30, 1777 | Death of General John Clavering gives Warren Hastings a working majority on the Bengal Supreme Council | Economics & Trade | [Warren Hastings and the East India Company in 1777](economics/warren-hastings-1777.md) |
 | September 5, 1777 | Lavoisier reads "Mémoire sur la combustion en général" to the Paris Académie | Science & Discovery | [Lavoisier's Oxygen Theory](science/lavoisier-oxygen-theory.md) |
 | September 11, 1777 | Battle of Brandywine | Military Events | [Battle of Brandywine](military/battle-of-brandywine.md) |
 | September 19, 1777 | Battle of Freeman's Farm (First Battle of Saratoga) | Military Events | [Battles of Saratoga](military/battles-of-saratoga.md) |

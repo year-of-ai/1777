@@ -5,6 +5,7 @@ Notable individuals who shaped the year 1777.
 <!-- BEGIN GENERATED: category-index — maintained by build-structure; do not edit by hand -->
 | Topic | Description |
 |---|---|
+| [Abigail Adams](abigail-adams.md) | Managed the family farm at Braintree, Massachusetts, through 1777 while her husband John served in Congress, chronicling the war's home front in an extensive correspondence and enduring the stillbirth of a daughter in July. |
 | [Benjamin Franklin in Paris](benjamin-franklin.md) | Elder statesman and diplomat who spent 1777 in Paris leading the commission whose negotiations turned Saratoga's victory into the formal French alliance of February 1778. |
 | [Carl Friedrich Gauss](carl-friedrich-gauss.md) | Mathematician born April 30 1777 in Brunswick; later established foundational contributions to number theory, algebra, geometry, and physics. |
 | [General George Washington](george-washington.md) | Commander-in-Chief of the Continental Army through the defeats of Brandywine and Germantown and the transformative winter at Valley Forge in 1777. |
