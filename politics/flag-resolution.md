@@ -44,4 +44,5 @@ Flag Day, commemorating the June 14, 1777 resolution, was proclaimed as a nation
 - [Articles of Confederation](articles-of-confederation.md) — adopted November 15, 1777, the same year as the Flag Resolution, as Congress worked to define the new nation
 - [Vermont Constitution](vermont-constitution.md) — another foundational political document of 1777, adopted July 8 by the Windsor Convention
 - [Battles of Saratoga](../military/battles-of-saratoga.md) — decisive American victory in autumn 1777 fought under the new Stars and Stripes
+- [John Paul Jones and American Naval Command](../military/john-paul-jones-1777.md) — Jones received his Continental Navy commission on June 14, 1777, the same day Congress adopted the Stars and Stripes
 <!-- END GENERATED: crossrefs -->

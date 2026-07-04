@@ -1,6 +1,6 @@
 # The Year 1777
 
-> **Status**: This repository is **mature** (generation complete — 31 dedicated topic files spanning all six categories). Successor: [year-of-ai/1778](https://github.com/year-of-ai/1778) — the year 1778.
+> **Status**: This repository is **mature** (generation complete — 36 dedicated topic files spanning all six categories). Successor: [year-of-ai/1778](https://github.com/year-of-ai/1778) — the year 1778.
 
 A self-growing, encyclopedic knowledge base covering the events, people, works, and discoveries of **1777** — the year of the Battles of Saratoga, Valley Forge, the Articles of Confederation, and the Stars and Stripes.
 
@@ -21,6 +21,7 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 |---|---|
 | [Battles of Saratoga](military/battles-of-saratoga.md) | American victory over Burgoyne's army in October 1777 proved the turning point of the Revolutionary War, convincing France to ally with the colonies. |
 | [Articles of Confederation drafted](politics/articles-of-confederation.md) | The Continental Congress adopted and sent the Articles of Confederation to the states for ratification in November 1777, establishing the first federal compact. |
+| [Catherine the Great's 1777 Diplomacy](politics/catherine-the-great-1777.md) | Empress Catherine II of Russia pursued expansionist diplomacy and alliance-building in 1777, setting the stage for Russian dominance over the Black Sea and eventual annexation of the Crimean Khanate in 1783. |
 | [Valley Forge encampment](military/valley-forge.md) | Washington's Continental Army encamped at Valley Forge, Pennsylvania in December 1777, enduring a brutal winter that forged a more disciplined fighting force. |
 | [Flag Resolution — Stars and Stripes adopted](politics/flag-resolution.md) | The Continental Congress passed the Flag Resolution on June 14, 1777, establishing the Stars and Stripes as the flag of the United States. |
 | [Vermont Constitution](politics/vermont-constitution.md) | Vermont adopted its constitution on July 8, 1777 — the first in North America to prohibit adult slavery and grant universal male suffrage without property requirements. |
@@ -30,10 +31,12 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [British occupy Philadelphia](military/british-occupation-philadelphia.md) | British forces occupied Philadelphia on September 26, 1777, forcing the Continental Congress to flee, though the city's capture proved strategically hollow. |
 | [Battle of Germantown](military/battle-of-germantown.md) | Washington's ambitious four-column counterattack on October 4, 1777, collapsed amid fog and friendly fire, but the bold offensive impressed France and bolstered the case for alliance. |
 | [Battle of Bennington](military/battle-of-bennington.md) | John Stark's New England militia destroyed a German foraging detachment near Walloomsac on August 16, 1777, crippling Burgoyne's army before Saratoga. |
+| [John Paul Jones and American Naval Command](military/john-paul-jones-1777.md) | Captain John Paul Jones's June 14, 1777 appointment to command USS Ranger — the same day as the Flag Resolution — launched professional American naval operations and established the foundational command structure of the United States Navy. |
 | [Carl Friedrich Gauss born](people/carl-friedrich-gauss.md) | The mathematician Carl Friedrich Gauss was born on April 30, 1777 in Brunswick — one of the most influential mathematicians in history. |
 | [Coulomb's Torsion Balance and Electrostatics](science/coulomb-electrostatics.md) | Charles-Augustin de Coulomb won an Academy prize in 1777 for his magnetic compass paper, which introduced the torsion balance—a revolutionary device enabling precise measurement of electrostatic forces and laying the foundation for quantitative electrostatics. |
 | [Lavoisier's oxygen theory](science/lavoisier-oxygen-theory.md) | Antoine Lavoisier published "On Combustion in General" in 1777, overthrowing phlogiston theory with quantitative experiments and launching the Chemical Revolution. |
 | [Royal Society Lightning Conductor Controversy](science/royal-society-lightning-controversy-1777.md) | A bitter dispute erupted within the Royal Society over whether lightning conductors should have pointed or rounded tips, with Benjamin Franklin's design becoming entangled with wartime politics and forcing the society's president to resign. |
+| [Smallpox Inoculation and Variolation in 1777](science/smallpox-inoculation-1777.md) | Systematic variolation practice, including Washington's military inoculation mandate at Valley Forge, advanced preventive medicine and established the framework for modern state-mandated vaccination campaigns and eventual global smallpox eradication. |
 | [American Privateering During the Revolutionary War](economics/american-privateering-1777.md) | By 1777, approximately 11,000 privateers operating under Letters of Marque from Congress and states devastated British commerce, capturing ~250 West India ships and causing merchant firms to collapse while inflicting $18 million in total wartime damage. |
 | [James Watt's steam engine improvements](economics/james-watt-steam-engine.md) | Boulton and Watt completed "Old Bess" in 1777 and secured Cornish mining orders, establishing the commercial template for industrial steam power. |
 | [Wolfgang Amadeus Mozart's 1777 tour](arts/mozart-1777-tour.md) | Mozart broke free from Salzburg's court, embarked on a European tour in September 1777, and completed major compositions including Piano Concerto K. 271 and Flute Quartet K. 285. |

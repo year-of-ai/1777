@@ -87,4 +87,5 @@ The commercial dimensions of the alliance proved significant beyond the war itse
 - [Benjamin Franklin in Paris](../people/benjamin-franklin.md) — diplomat who led the commission that converted Saratoga's news into the formal alliance
 - [American Privateering During the Revolutionary War](american-privateering-1777.md) — the maritime campaign Franklin coordinated from Paris that pressured British commerce alongside the diplomatic effort
 - [The Marriage of Figaro (Beaumarchais)](../arts/beaumarchais-marriage-of-figaro.md) — its author ran the covert arms-supply house Rodrigue Hortalez et Compagnie, materially aiding the cause this diplomacy served
+- [Catherine the Great's 1777 Diplomacy](../politics/catherine-the-great-1777.md) — the parallel European power politics in which Russia's neutrality left France free to commit to the American cause
 <!-- END GENERATED: crossrefs -->

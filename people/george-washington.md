@@ -66,4 +66,5 @@ His political survival during the Conway Cabal showed he could navigate the civi
 - [General John Burgoyne](general-john-burgoyne.md) — British commander whose defeat at Saratoga shadowed Washington's Pennsylvania defeats
 - [Marquis de Lafayette](marquis-de-lafayette.md) — French volunteer who became Washington's most trusted commander in 1777
 - [Benjamin Franklin in Paris](benjamin-franklin.md) — diplomat whose 1777 Paris negotiations ran in parallel with Washington's Valley Forge winter
+- [Smallpox Inoculation and Variolation in 1777](../science/smallpox-inoculation-1777.md) — Washington's February 1777 mandate to inoculate the Continental Army, among his most consequential command decisions
 <!-- END GENERATED: crossrefs -->

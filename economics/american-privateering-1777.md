@@ -52,4 +52,5 @@ Privateering was the young republic's most effective instrument of economic warf
 - [Battles of Saratoga](../military/battles-of-saratoga.md) — the military turning point of 1777 that, combined with privateering success, secured the French alliance
 - [British Occupation of Philadelphia](../military/british-occupation-philadelphia.md) — the land campaign context in which privateering operated as a second front
 - [Benjamin Franklin](../people/benjamin-franklin.md) — principal strategist of the privateering-diplomacy nexus
+- [John Paul Jones and American Naval Command](../military/john-paul-jones-1777.md) — the Continental Navy's professional commerce-raiding command, distinct from the privately financed letters of marque
 <!-- END GENERATED: crossrefs -->

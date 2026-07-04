@@ -64,6 +64,7 @@ The 1777 rebellion and subsequent Russian military interventions directly precip
 - [Articles of Confederation](articles-of-confederation.md) — adopted in 1777, another example of a new political framework struggling to assert sovereignty amid external pressures
 - [Vermont Constitution](vermont-constitution.md) — also 1777, a smaller polity declaring independence and asserting novel political principles in a contested geopolitical environment
 - [Massachusetts Anti-Slavery Petition](massachusetts-slavery-petition-1777.md) — a parallel 1777 struggle over rights, inclusion, and the limits of established political structures
+- [Catherine the Great's 1777 Diplomacy](catherine-the-great-1777.md) — the Russian empress whose 1777 diplomacy installed Şahin Giray as a client khan and drove the peninsula toward the 1783 annexation
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

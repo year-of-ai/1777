@@ -11,5 +11,6 @@ Battles and campaigns of the American Revolutionary War and beyond.
 | [British Occupation of Philadelphia](british-occupation-philadelphia.md) | Eight-month British occupation of the American capital, September 1777–June 1778, that captured the city but failed to break American resistance. |
 | [Battle of Germantown](battle-of-germantown.md) | Washington's four-column dawn counterattack of October 4, 1777, repulsed amid fog and friendly fire; the bold offensive nonetheless impressed France. |
 | [Howe's 1777 Campaign Strategy](howe-strategy-1777.md) | General Howe's decision to take Philadelphia by sea rather than reinforce Burgoyne — tactically successful at Brandywine but strategically fatal, leaving the northern army to surrender at Saratoga. |
+| [John Paul Jones and American Naval Command](john-paul-jones-1777.md) | Continental Navy captain appointed on June 14, 1777 to command the sloop-of-war USS Ranger — which he sailed for France that November; his professional command laid the operational foundations of American naval power and the United States Navy. |
 | [Valley Forge Encampment](valley-forge.md) | Continental Army winter encampment December 1777–June 1778; von Steuben's drill training transformed Washington's forces into a professional army. |
 <!-- END GENERATED: category-index -->

@@ -7,11 +7,13 @@ A chronological index of notable events, people, and works of the year 1777.
 |---|---|---|---|
 | January 1777 | Mozart completes Piano Concerto No. 9 (K. 271, "Jenamy") in Salzburg | Arts & Culture | [Mozart's 1777 Tour](arts/mozart-1777-tour.md) |
 | January 13, 1777 | Prince Hall and seven others petition the Massachusetts legislature to abolish slavery | Political Events | [Massachusetts Anti-Slavery Petition](politics/massachusetts-slavery-petition-1777.md) |
+| February 6, 1777 | Washington orders mass inoculation of the Continental Army against smallpox (letter to Dr. William Shippen Jr. from Morristown) | Science & Discovery | [Smallpox Inoculation and Variolation in 1777](science/smallpox-inoculation-1777.md) |
 | April 30, 1777 | Carl Friedrich Gauss born in Brunswick | Key Figures | [Carl Friedrich Gauss](people/carl-friedrich-gauss.md) |
 | May 8, 1777 | Sheridan's *The School for Scandal* premieres at the Theatre Royal, Drury Lane | Arts & Culture | [The School for Scandal](arts/sheridan-school-for-scandal.md) |
 | May 15, 1777 | Lightning strikes the Purfleet powder magazine, igniting the Royal Society lightning-conductor controversy | Science & Discovery | [Royal Society Lightning Conductor Controversy](science/royal-society-lightning-controversy-1777.md) |
 | June 13, 1777 | Marquis de Lafayette arrives on the South Carolina coast | Key Figures | [Marquis de Lafayette](people/marquis-de-lafayette.md) |
 | June 14, 1777 | Flag Resolution — Stars and Stripes adopted | Political Events | [Flag Resolution](politics/flag-resolution.md) |
+| June 14, 1777 | John Paul Jones receives his Continental Navy captain's commission, the same day as the Flag Resolution | Military Events | [John Paul Jones and American Naval Command](military/john-paul-jones-1777.md) |
 | July 8, 1777 | Vermont Constitution adopted | Political Events | [Vermont Constitution](politics/vermont-constitution.md) |
 | July 11, 1777 | Abigail Adams gives birth to a stillborn daughter, Elizabeth, at Braintree amid wartime hardship | Key Figures | [Abigail Adams](people/abigail-adams.md) |
 | August 3, 1777 | Haydn's opera buffa *Il mondo della luna* premieres at Eszterháza for Count Anton Esterházy's wedding | Arts & Culture | [Haydn's Il mondo della luna](arts/haydn-il-mondo-della-luna.md) |
@@ -29,6 +31,7 @@ A chronological index of notable events, people, and works of the year 1777.
 | October 6, 1777 | Clinton captures Forts Clinton and Montgomery in his Hudson River relief offensive | Key Figures | [Sir Henry Clinton](people/sir-henry-clinton.md) |
 | October 7, 1777 | Battle of Bemis Heights (Second Battle of Saratoga) | Military Events | [Battles of Saratoga](military/battles-of-saratoga.md) |
 | October 17, 1777 | Burgoyne surrenders at Saratoga | Military Events | [Battles of Saratoga](military/battles-of-saratoga.md) |
+| November 1, 1777 | John Paul Jones sails from Portsmouth in command of USS Ranger, bound for France | Military Events | [John Paul Jones and American Naval Command](military/john-paul-jones-1777.md) |
 | November 15, 1777 | Articles of Confederation adopted by Continental Congress | Political Events | [Articles of Confederation](politics/articles-of-confederation.md) |
 | December 4, 1777 | News of Burgoyne's surrender at Saratoga reaches Paris, triggering French alliance negotiations | Economics & Trade | [Franco-American Diplomatic Breakthrough](economics/franco-american-diplomacy-1777.md) |
 | December 19, 1777 | Continental Army encamps at Valley Forge | Military Events | [Valley Forge](military/valley-forge.md) |
@@ -36,6 +39,7 @@ A chronological index of notable events, people, and works of the year 1777.
 | 1777 | Coulomb's prize memoir on the magnetic compass introduces the torsion balance to the Académie des Sciences | Science & Discovery | [Coulomb's Torsion Balance and Electrostatics](science/coulomb-electrostatics.md) |
 | 1777 | American privateering against British shipping reaches peak intensity; Parliament responds with the Treason (Pirate) Act | Economics & Trade | [American Privateering During the Revolutionary War](economics/american-privateering-1777.md) |
 | 1777 | Boulton and Watt complete "Old Bess" and secure Cornish mining orders | Economics & Trade | [James Watt's Steam Engine](economics/james-watt-steam-engine.md) |
+| 1777 | Catherine the Great advances Russian expansion in the Black Sea, backing Şahin Giray as a client Crimean khan | Political Events | [Catherine the Great's 1777 Diplomacy](politics/catherine-the-great-1777.md) |
 | 1777 | Şahin Giray consolidates the Crimean khanate with Russian backing; reform program triggers an autumn rebellion | Political Events | [Shahin Giray becomes Crimean Khan](politics/shahin-giray-crimean-khan.md) |
 | 1777–1778 | Beaumarchais writes *The Marriage of Figaro* while running covert arms shipments to the American Revolution | Arts & Culture | [The Marriage of Figaro (Beaumarchais)](arts/beaumarchais-marriage-of-figaro.md) |
 <!-- END GENERATED: timeline -->
