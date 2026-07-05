@@ -48,8 +48,10 @@ A complete map of all content in this knowledge base, organized by category.
 
 ## Key Figures
 - [Abigail Adams](people/abigail-adams.md) — Manager of the Braintree farm and chronicler of the 1777 home front through her correspondence with John Adams in Congress
+- [Baron Friedrich Wilhelm von Steuben](people/baron-von-steuben.md) — Prussian officer who landed in America in December 1777 and drilled the Continental Army at Valley Forge into a professional force; author of the "Blue Book"
 - [Benjamin Franklin in Paris](people/benjamin-franklin.md) — Diplomat whose 1777 Paris commission converted Saratoga's victory into the February 1778 French alliance
 - [Carl Friedrich Gauss](people/carl-friedrich-gauss.md) — Mathematician born April 30, 1777; later made foundational contributions to number theory, algebra, geometry, and physics
+- [General Benedict Arnold](people/benedict-arnold.md) — Major general decisive at Freeman's Farm and Bemis Heights in the 1777 Saratoga campaign; later infamous for his 1780 treason
 - [General George Washington](people/george-washington.md) — Continental Army Commander-in-Chief through Brandywine, Germantown, and the Valley Forge winter of 1777
 - [General John Burgoyne](people/general-john-burgoyne.md) — British commander of the 1777 northern campaign; surrendered at Saratoga, October 17, 1777
 - [Lord George Germain](people/lord-george-germain.md) — Secretary of State for the Colonies whose uncoordinated 1777 strategy left Burgoyne unsupported

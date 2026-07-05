@@ -30,9 +30,11 @@ A chronological index of notable events, people, and works of the year 1777.
 | October 4, 1777 | Washington's counterattack at the Battle of Germantown fails amid fog and confusion | Military Events | [Battle of Germantown](military/battle-of-germantown.md) |
 | October 6, 1777 | Clinton captures Forts Clinton and Montgomery in his Hudson River relief offensive | Key Figures | [Sir Henry Clinton](people/sir-henry-clinton.md) |
 | October 7, 1777 | Battle of Bemis Heights (Second Battle of Saratoga) | Military Events | [Battles of Saratoga](military/battles-of-saratoga.md) |
+| October 7, 1777 | Benedict Arnold leads the decisive assault on the Breymann Redoubt at Bemis Heights, breaking Burgoyne's right flank and suffering a shattering leg wound | Key Figures | [General Benedict Arnold](people/benedict-arnold.md) |
 | October 17, 1777 | Burgoyne surrenders at Saratoga | Military Events | [Battles of Saratoga](military/battles-of-saratoga.md) |
 | November 1, 1777 | John Paul Jones sails from Portsmouth in command of USS Ranger, bound for France | Military Events | [John Paul Jones and American Naval Command](military/john-paul-jones-1777.md) |
 | November 15, 1777 | Articles of Confederation adopted by Continental Congress | Political Events | [Articles of Confederation](politics/articles-of-confederation.md) |
+| December 1, 1777 | Baron von Steuben lands at Portsmouth, New Hampshire, to volunteer for the Continental Army | Key Figures | [Baron Friedrich Wilhelm von Steuben](people/baron-von-steuben.md) |
 | December 4, 1777 | News of Burgoyne's surrender at Saratoga reaches Paris, triggering French alliance negotiations | Economics & Trade | [Franco-American Diplomatic Breakthrough](economics/franco-american-diplomacy-1777.md) |
 | December 19, 1777 | Continental Army encamps at Valley Forge | Military Events | [Valley Forge](military/valley-forge.md) |
 | December 25, 1777 | Mozart completes Flute Quartet No. 1 (K. 285) in Mannheim | Arts & Culture | [Mozart's 1777 Tour](arts/mozart-1777-tour.md) |

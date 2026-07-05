@@ -32,6 +32,7 @@ The American victory at Saratoga is widely regarded as the turning point of the 
 - [British Occupation of Philadelphia](british-occupation-philadelphia.md) — concurrent southern campaign whose strategic value Saratoga's outcome fatally undermined
 - [Valley Forge Encampment](valley-forge.md) — winter encampment that followed Saratoga, where von Steuben trained the Continental Army
 - [General John Burgoyne](../people/general-john-burgoyne.md) — British commander whose army surrendered here on October 17, 1777
+- [General Benedict Arnold](../people/benedict-arnold.md) — American major general whose aggressive tactics at Freeman's Farm and Bemis Heights proved decisive in this campaign
 - [Franco-American Diplomatic Breakthrough](../economics/franco-american-diplomacy-1777.md) — the alliance triggered when news of this victory reached Paris
 - [American Privateering During the Revolutionary War](../economics/american-privateering-1777.md) — the maritime pressure on British commerce that, with this victory, helped convince France to intervene
 - [The Marriage of Figaro (Beaumarchais)](../arts/beaumarchais-marriage-of-figaro.md) — the playwright's covert arms-supply network helped equip the American forces that triumphed here

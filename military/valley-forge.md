@@ -30,6 +30,7 @@ Valley Forge transformed the Continental Army from a force struggling with incon
 - [Battle of Germantown](battle-of-germantown.md) — the army's last major offensive, October 4, 1777, before it withdrew into this encampment
 - [British Occupation of Philadelphia](british-occupation-philadelphia.md) — Washington's army wintered at Valley Forge roughly twenty miles from the British-held capital
 - [General George Washington](../people/george-washington.md) — Commander-in-Chief who led the army into this encampment and presided over its transformation
+- [Baron Friedrich Wilhelm von Steuben](../people/baron-von-steuben.md) — Prussian officer who arrived here in February 1778 and drilled the army into a professional force
 - [Marquis de Lafayette](../people/marquis-de-lafayette.md) — French major general who wintered here and spent his own funds on the suffering troops
 - [Smallpox Inoculation and Variolation in 1777](../science/smallpox-inoculation-1777.md) — Washington's 1777 inoculation campaign preserved the army's strength through this encampment and the campaigns that followed
 <!-- END GENERATED: crossrefs -->

@@ -1,6 +1,6 @@
 # The Year 1777
 
-> **Status**: This repository is **mature** (generation complete — 36 dedicated topic files spanning all six categories). Successor: [year-of-ai/1778](https://github.com/year-of-ai/1778) — the year 1778.
+> **Status**: This repository is **mature** (generation complete — 38 dedicated topic files spanning all six categories). Successor: [year-of-ai/1778](https://github.com/year-of-ai/1778) — the year 1778.
 
 A self-growing, encyclopedic knowledge base covering the events, people, works, and discoveries of **1777** — the year of the Battles of Saratoga, Valley Forge, the Articles of Confederation, and the Stars and Stripes.
 
@@ -31,6 +31,7 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [British occupy Philadelphia](military/british-occupation-philadelphia.md) | British forces occupied Philadelphia on September 26, 1777, forcing the Continental Congress to flee, though the city's capture proved strategically hollow. |
 | [Battle of Germantown](military/battle-of-germantown.md) | Washington's ambitious four-column counterattack on October 4, 1777, collapsed amid fog and friendly fire, but the bold offensive impressed France and bolstered the case for alliance. |
 | [Battle of Bennington](military/battle-of-bennington.md) | John Stark's New England militia destroyed a German foraging detachment near Walloomsac on August 16, 1777, crippling Burgoyne's army before Saratoga. |
+| [Baron Friedrich Wilhelm von Steuben](people/baron-von-steuben.md) | The Prussian officer, recruited in Paris, landed in America in December 1777 and from February 1778 transformed Washington's army through systematic drill; his "Blue Book" grounded American military training for over a century. |
 | [John Paul Jones and American Naval Command](military/john-paul-jones-1777.md) | Captain John Paul Jones's June 14, 1777 appointment to command USS Ranger — the same day as the Flag Resolution — launched professional American naval operations and established the foundational command structure of the United States Navy. |
 | [Carl Friedrich Gauss born](people/carl-friedrich-gauss.md) | The mathematician Carl Friedrich Gauss was born on April 30, 1777 in Brunswick — one of the most influential mathematicians in history. |
 | [Coulomb's Torsion Balance and Electrostatics](science/coulomb-electrostatics.md) | Charles-Augustin de Coulomb won an Academy prize in 1777 for his magnetic compass paper, which introduced the torsion balance—a revolutionary device enabling precise measurement of electrostatic forces and laying the foundation for quantitative electrostatics. |
@@ -50,6 +51,7 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [General George Washington](people/george-washington.md) | Commander-in-Chief of the Continental Army through the year's defeats (Brandywine, Germantown) and triumph at Valley Forge, Washington's 1777 leadership proved pivotal to surviving the Revolution's darkest hour. |
 | [Benjamin Franklin in Paris](people/benjamin-franklin.md) | The aging diplomat and elder statesman spent 1777 in Paris negotiating with the French court, building the diplomatic consensus that Saratoga's October victory would convert into the formal alliance of February 1778. |
 | [Abigail Adams](people/abigail-adams.md) | From her farm in Braintree, Massachusetts, Abigail Adams managed household and agricultural affairs while maintaining extensive correspondence with John Adams in Philadelphia, providing eyewitness accounts of wartime hardships and sustaining political discourse. |
+| [General Benedict Arnold](people/benedict-arnold.md) | Major general in the Northern Department, Arnold's aggressive tactics at Freeman's Farm and Bemis Heights proved decisive in the turning-point 1777 Saratoga campaign; his brilliance was later eclipsed by his 1780 treason attempt. |
 | [Gluck's Armide](arts/gluck-armide.md) | Christoph Willibald Gluck's operatic masterwork premiered at the Paris Académie Royale on September 23, 1777, igniting the famous Gluckistes versus Piccinnistes artistic controversy that reshaped French musical culture. |
 | [Shahin Giray becomes Crimean Khan](politics/shahin-giray-crimean-khan.md) | The last independent Khan of Crimea, installed in 1777 with Russian backing, Shahin Giray attempted European-style administrative modernization and religious pluralism—reforms that provoked rebellion and prefigured Russia's 1783 annexation of the Khanate. |
 | [Haydn's Il mondo della luna](arts/haydn-il-mondo-della-luna.md) | Joseph Haydn's comic opera (opera buffa) premiered August 3, 1777 at Prince Esterházy's court, featuring Goldoni's witty libretto about an astronomer who fools a merchant into believing he visited the moon. |
