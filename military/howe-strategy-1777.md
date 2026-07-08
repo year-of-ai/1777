@@ -1,6 +1,6 @@
 ---
 title: General William Howe's 1777 Campaign Strategy
-date: 1777
+date: 1777-01-01
 category: Military Events
 ---
 

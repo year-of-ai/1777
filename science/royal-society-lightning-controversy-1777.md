@@ -1,6 +1,6 @@
 ---
 title: The Royal Society Lightning Conductor Controversy of 1777
-date: 1777
+date: 1777-01-01
 category: Science & Discovery
 ---
 

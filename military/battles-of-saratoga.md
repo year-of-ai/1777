@@ -1,6 +1,6 @@
 ---
 title: "Battles of Saratoga"
-date: "1777-09-19 / 1777-10-17"
+date: 1777-09-19
 category: military
 ---
 

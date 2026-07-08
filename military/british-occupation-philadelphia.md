@@ -1,6 +1,6 @@
 ---
 title: "British Occupation of Philadelphia"
-date: "September 26, 1777"
+date: 1777-09-26
 category: "Military Events"
 ---
 

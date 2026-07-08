@@ -1,6 +1,6 @@
 ---
 title: "William Herschel's Telescopes and Deep-Sky Observations"
-date: "1777–1781"
+date: 1777-01-01
 category: "Science & Discovery"
 ---
 

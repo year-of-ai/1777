@@ -1,6 +1,6 @@
 ---
 title: "Shahin Giray becomes Crimean Khan"
-date: 1777
+date: 1777-01-01
 category: "Political Events"
 ---
 

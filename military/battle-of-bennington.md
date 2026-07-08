@@ -1,6 +1,6 @@
 ---
 title: "Battle of Bennington"
-date: "August 16, 1777"
+date: 1777-08-16
 category: "Military Events"
 ---
 

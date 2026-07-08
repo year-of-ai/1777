@@ -1,6 +1,6 @@
 ---
 title: General Benedict Arnold
-date: 1777
+date: 1777-01-01
 category: Key Figures
 ---
 

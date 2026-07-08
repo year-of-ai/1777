@@ -1,6 +1,6 @@
 ---
 title: "Articles of Confederation"
-date: "1777-11-15"
+date: 1777-11-15
 category: politics
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Battle of Germantown"
-date: "October 4, 1777"
+date: 1777-10-04
 category: "Military Events"
 ---
 

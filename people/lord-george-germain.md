@@ -1,6 +1,6 @@
 ---
 title: "Lord George Germain (1716–1785)"
-date: 1777
+date: 1777-01-01
 category: "Key Figures"
 ---
 

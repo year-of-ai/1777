@@ -1,6 +1,6 @@
 ---
 title: "Warren Hastings and the East India Company in 1777"
-date: 1777
+date: 1777-01-01
 category: "Economics & Trade"
 ---
 

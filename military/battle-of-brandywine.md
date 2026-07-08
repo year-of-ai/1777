@@ -1,6 +1,6 @@
 ---
 title: "Battle of Brandywine"
-date: "September 11, 1777"
+date: 1777-09-11
 category: "Military Events"
 ---
 

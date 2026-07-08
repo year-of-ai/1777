@@ -1,6 +1,6 @@
 ---
 title: "Valley Forge Encampment"
-date: "1777-12-19 / 1778-06-19"
+date: 1777-12-19
 category: military
 ---
 
