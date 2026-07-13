@@ -48,6 +48,7 @@ The wider historical context matters: as American colonists fought for independe
 
 - [Battles of Saratoga](../military/battles-of-saratoga.md) — simultaneous 1777 turning point in the American Revolutionary War
 - [Lavoisier's Oxygen Theory](../science/lavoisier-oxygen-theory.md) — parallel scientific revolution establishing chemistry as a quantitative discipline in the same year
+- [Adam Smith's The Wealth of Nations](adam-smith-wealth-of-nations.md) — the 1776 treatise on the division of labor and productive power whose economic framework Watt's industrial technology exemplified
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

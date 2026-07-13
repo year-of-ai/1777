@@ -40,6 +40,7 @@ A complete map of all content in this knowledge base, organized by category.
 - → [arts/index.md](arts/index.md) — full category index
 
 ## Economics & Trade
+- [Adam Smith's The Wealth of Nations](economics/adam-smith-wealth-of-nations.md) — Smith's 1776 treatise gains policy influence in 1777 as Lord North adopts tax measures drawn from it; the intellectual turn from mercantilism to market liberalism
 - [American Privateering During the Revolutionary War](economics/american-privateering-1777.md) — Letters-of-Marque raiders devastate British commerce in 1777, supplying diplomatic leverage toward the French alliance
 - [Franco-American Diplomatic Breakthrough](economics/franco-american-diplomacy-1777.md) — Saratoga's news reaches Paris, December 1777; French alliance sealed by the February 6, 1778 treaties
 - [James Watt's Steam Engine Improvements](economics/james-watt-steam-engine.md) — "Old Bess" completion and Cornish mining orders, 1777; the fuel-savings licensing template for industrial steam power
@@ -54,9 +55,11 @@ A complete map of all content in this knowledge base, organized by category.
 - [General Benedict Arnold](people/benedict-arnold.md) — Major general decisive at Freeman's Farm and Bemis Heights in the 1777 Saratoga campaign; later infamous for his 1780 treason
 - [General George Washington](people/george-washington.md) — Continental Army Commander-in-Chief through Brandywine, Germantown, and the Valley Forge winter of 1777
 - [General John Burgoyne](people/general-john-burgoyne.md) — British commander of the 1777 northern campaign; surrendered at Saratoga, October 17, 1777
+- [Leonhard Euler](people/leonhard-euler.md) — Nearly blind Swiss mathematician producing about one paper a week from Saint Petersburg in 1777; introduced the notation *i* for the imaginary unit that year
 - [Lord George Germain](people/lord-george-germain.md) — Secretary of State for the Colonies whose uncoordinated 1777 strategy left Burgoyne unsupported
 - [Marquis de Lafayette](people/marquis-de-lafayette.md) — French volunteer major general who arrived June 13, 1777, wounded at Brandywine, became Washington's trusted aide
 - [Sir Henry Clinton](people/sir-henry-clinton.md) — Howe's second-in-command in 1777; later British Commander-in-Chief in America, 1778–1782
+- [Tipu Sultan](people/tipu-sultan.md) — Rising Mysore commander under Hyder Ali in 1777; later rocket-artillery pioneer and leading Indian opponent of British East India Company expansion
 - → [people/index.md](people/index.md) — full category index
 
 ---

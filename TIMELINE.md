@@ -16,6 +16,7 @@ A chronological index of notable events, people, and works of the year 1777.
 | June 14, 1777 | John Paul Jones receives his Continental Navy captain's commission, the same day as the Flag Resolution | Military Events | [John Paul Jones and American Naval Command](military/john-paul-jones-1777.md) |
 | July 8, 1777 | Vermont Constitution adopted | Political Events | [Vermont Constitution](politics/vermont-constitution.md) |
 | July 11, 1777 | Abigail Adams gives birth to a stillborn daughter, Elizabeth, at Braintree amid wartime hardship | Key Figures | [Abigail Adams](people/abigail-adams.md) |
+| July 1777 | Hyder Ali lays siege to the Chitradurga fortress, opening a Mysore campaign in which Tipu Sultan takes part | Key Figures | [Tipu Sultan](people/tipu-sultan.md) |
 | August 3, 1777 | Haydn's opera buffa *Il mondo della luna* premieres at Eszterháza for Count Anton Esterházy's wedding | Arts & Culture | [Haydn's Il mondo della luna](arts/haydn-il-mondo-della-luna.md) |
 | August 16, 1777 | Battle of Bennington — Stark's militia destroy Burgoyne's foraging detachment near Walloomsac | Military Events | [Battle of Bennington](military/battle-of-bennington.md) |
 | August 25, 1777 | Howe's army lands at Head of Elk, Maryland, opening the Philadelphia campaign | Military Events | [Howe's 1777 Campaign Strategy](military/howe-strategy-1777.md) |
@@ -43,5 +44,7 @@ A chronological index of notable events, people, and works of the year 1777.
 | 1777 | Boulton and Watt complete "Old Bess" and secure Cornish mining orders | Economics & Trade | [James Watt's Steam Engine](economics/james-watt-steam-engine.md) |
 | 1777 | Catherine the Great advances Russian expansion in the Black Sea, backing Şahin Giray as a client Crimean khan | Political Events | [Catherine the Great's 1777 Diplomacy](politics/catherine-the-great-1777.md) |
 | 1777 | Şahin Giray consolidates the Crimean khanate with Russian backing; reform program triggers an autumn rebellion | Political Events | [Shahin Giray becomes Crimean Khan](politics/shahin-giray-crimean-khan.md) |
+| 1777 | Lord North's ministry adopts tax measures drawn from Adam Smith's *The Wealth of Nations*, an early sign of its influence on British fiscal policy | Economics & Trade | [Adam Smith's The Wealth of Nations](economics/adam-smith-wealth-of-nations.md) |
+| 1777 | Leonhard Euler, nearly blind, sustains roughly one mathematical paper a week from Saint Petersburg and introduces the notation *i* for the imaginary unit | Key Figures | [Leonhard Euler](people/leonhard-euler.md) |
 | 1777–1778 | Beaumarchais writes *The Marriage of Figaro* while running covert arms shipments to the American Revolution | Arts & Culture | [The Marriage of Figaro (Beaumarchais)](arts/beaumarchais-marriage-of-figaro.md) |
 <!-- END GENERATED: timeline -->
