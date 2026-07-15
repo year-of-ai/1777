@@ -5,6 +5,7 @@ A complete map of all content in this knowledge base, organized by category.
 <!-- BEGIN GENERATED: master-index — maintained by build-structure; do not edit by hand -->
 ## Political Events
 - [Articles of Confederation](politics/articles-of-confederation.md) — First formal governing compact of the thirteen United States, adopted November 15, 1777
+- [Bavarian Succession Crisis and Treaty of Teschen](politics/treaty-of-teschen-1777.md) — Elector Maximilian Joseph III's death on December 30, 1777 sparks an Austro-Prussian contest over Bavaria, resolved by the 1779 Treaty of Teschen under Catherine the Great's mediation
 - [Catherine the Great's 1777 Diplomacy](politics/catherine-the-great-1777.md) — Empress Catherine II's expansionist diplomacy backing a client Crimean khan; the opening moves toward Russia's 1783 annexation of Crimea
 - [Flag Resolution — Stars and Stripes](politics/flag-resolution.md) — Continental Congress resolution establishing the Stars and Stripes, June 14, 1777
 - [Massachusetts Anti-Slavery Petition](politics/massachusetts-slavery-petition-1777.md) — Prince Hall and seven others petition for abolition on Revolutionary principles, January 13, 1777
@@ -25,6 +26,7 @@ A complete map of all content in this knowledge base, organized by category.
 
 ## Science & Discovery
 - [Coulomb's Torsion Balance and Electrostatics](science/coulomb-electrostatics.md) — 1777 prize memoir on the magnetic compass introducing the torsion balance, foundation of the 1785 inverse-square law of electrostatic force
+- [Laplace's Nebular Hypothesis and Cosmological Revolution](science/laplace-nebular-hypothesis-1777.md) — Laplace's 1770s celestial-mechanics work underpinning the theory that the solar system condensed from a rotating gas cloud by purely mechanical processes, without divine intervention
 - [Lavoisier's Oxygen Theory](science/lavoisier-oxygen-theory.md) — 1777 memoir "On Combustion in General" overturning phlogiston theory and launching the Chemical Revolution
 - [Royal Society Lightning Conductor Controversy](science/royal-society-lightning-controversy-1777.md) — 1777 pointed-vs-rounded lightning rod dispute that became a wartime political proxy and forced the Royal Society president to resign
 - [Smallpox Inoculation and Variolation in 1777](science/smallpox-inoculation-1777.md) — Washington's 1777 mandate to inoculate the Continental Army, the largest variolation campaign in North America to that date
@@ -44,6 +46,7 @@ A complete map of all content in this knowledge base, organized by category.
 - [American Privateering During the Revolutionary War](economics/american-privateering-1777.md) — Letters-of-Marque raiders devastate British commerce in 1777, supplying diplomatic leverage toward the French alliance
 - [Franco-American Diplomatic Breakthrough](economics/franco-american-diplomacy-1777.md) — Saratoga's news reaches Paris, December 1777; French alliance sealed by the February 6, 1778 treaties
 - [James Watt's Steam Engine Improvements](economics/james-watt-steam-engine.md) — "Old Bess" completion and Cornish mining orders, 1777; the fuel-savings licensing template for industrial steam power
+- [Spanish Bourbon Reforms and Colonial Reorganization](economics/spanish-bourbon-reforms-1777.md) — Charles III creates the Captaincy-General of Venezuela (September 8, 1777) and consolidates the Viceroyalty of Río de la Plata, rationalizing Spanish colonial administration and trade
 - [Warren Hastings and the East India Company in 1777](economics/warren-hastings-1777.md) — Governor-General of Bengal consolidates power after Clavering's death as the American Revolution widens the Anglo-French conflict into Asia
 - → [economics/index.md](economics/index.md) — full category index
 

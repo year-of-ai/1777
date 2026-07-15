@@ -59,5 +59,6 @@ More broadly, Catherine's diplomatic strategy during 1777 established the templa
 - [Articles of Confederation drafted](articles-of-confederation.md) — American institutional consolidation in 1777 paralleled Catherine's administrative Guberniya Reform
 - [Marquis de Lafayette](../people/marquis-de-lafayette.md) — French intervention enabled by Russian diplomatic neutrality that declined to counterbalance French power
 - [Benjamin Franklin](../people/benjamin-franklin.md) — Franklin's Paris diplomacy operated in the same European power environment that Catherine was simultaneously reshaping
+- [Bavarian Succession Crisis and Treaty of Teschen](treaty-of-teschen-1777.md) — the 1777–1779 crisis whose 1779 settlement Catherine mediated, cementing Russia as a co-arbiter of Central European affairs
 
 <!-- END GENERATED: crossrefs -->

@@ -1,6 +1,6 @@
 # The Year 1777
 
-> **Status**: This repository is **mature** (generation complete — 41 dedicated topic files spanning all six categories). Successor: [year-of-ai/1778](https://github.com/year-of-ai/1778) — the year 1778.
+> **Status**: This repository is **mature** (generation complete — 44 dedicated topic files spanning all six categories). Successor: [year-of-ai/1778](https://github.com/year-of-ai/1778) — the year 1778.
 
 A self-growing, encyclopedic knowledge base covering the events, people, works, and discoveries of **1777** — the year of the Battles of Saratoga, Valley Forge, the Articles of Confederation, and the Stars and Stripes.
 
@@ -60,6 +60,9 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Haydn's Il mondo della luna](arts/haydn-il-mondo-della-luna.md) | Joseph Haydn's comic opera (opera buffa) premiered August 3, 1777 at Prince Esterházy's court, featuring Goldoni's witty libretto about an astronomer who fools a merchant into believing he visited the moon. |
 | [Beaumarchais' Marriage of Figaro (composition in 1777)](arts/beaumarchais-marriage-of-figaro.md) | Beaumarchais wrote his political masterwork during 1777–1778, banned by King Louis XVI for attacking aristocratic privilege, composed while simultaneously running an arms-supply operation supporting the American Revolution. |
 | [William Herschel's Telescopes and Deep-Sky Observations](science/herschel-telescopes-deep-sky.md) | In 1777, William Herschel relocated to Bath and began constructing precision Newtonian reflectors and systematic sky surveys that culminated in the discovery of Uranus in 1781 and revolutionized observational astronomy. |
+| [Spanish Bourbon Reforms and Colonial Reorganization](economics/spanish-bourbon-reforms-1777.md) | Charles III's Bourbon monarchy created the Captaincy-General of Venezuela on September 8, 1777 and consolidated the Viceroyalty of Río de la Plata, rationalizing colonial administration and trade in reforms that later helped fuel independence movements. |
+| [Bavarian Succession Crisis and Treaty of Teschen](politics/treaty-of-teschen-1777.md) | The death of Elector Maximilian Joseph III on December 30, 1777 triggered an Austro-Prussian contest over Bavaria; the resulting near-bloodless "Potato War" ended with the 1779 Treaty of Teschen, mediated by Catherine the Great. |
+| [Laplace's Nebular Hypothesis and Cosmological Revolution](science/laplace-nebular-hypothesis-1777.md) | Building on his 1770s work on the stability of the solar system, Pierre-Simon Laplace advanced the theory that the solar system condensed from a rotating cloud of gas through purely mechanical processes, without divine intervention. |
 
 ---
 

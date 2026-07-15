@@ -65,4 +65,5 @@ The impeachment trial that ultimately followed (1788–1795, ending in Hastings'
 - [American Privateering During the Revolutionary War](american-privateering-1777.md) — disruption of Atlantic trade that heightened pressure on all British imperial finances
 - [Benjamin Franklin in Paris](../people/benjamin-franklin.md) — key architect of the French alliance that altered Hastings' strategic calculations
 - [Tipu Sultan](../people/tipu-sultan.md) — rising Mysore commander in 1777 whose kingdom was the foremost military rival to the East India Company expansion Hastings directed from Bengal
+- [Spanish Bourbon Reforms and Colonial Reorganization](spanish-bourbon-reforms-1777.md) — the parallel Spanish drive to rationalize colonial administration, in explicit competition with the British model Hastings ran
 <!-- END GENERATED: crossrefs -->

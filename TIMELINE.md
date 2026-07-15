@@ -22,6 +22,7 @@ A chronological index of notable events, people, and works of the year 1777.
 | August 25, 1777 | Howe's army lands at Head of Elk, Maryland, opening the Philadelphia campaign | Military Events | [Howe's 1777 Campaign Strategy](military/howe-strategy-1777.md) |
 | August 30, 1777 | Death of General John Clavering gives Warren Hastings a working majority on the Bengal Supreme Council | Economics & Trade | [Warren Hastings and the East India Company in 1777](economics/warren-hastings-1777.md) |
 | September 5, 1777 | Lavoisier reads "Mémoire sur la combustion en général" to the Paris Académie | Science & Discovery | [Lavoisier's Oxygen Theory](science/lavoisier-oxygen-theory.md) |
+| September 8, 1777 | Charles III's royal decree creates the Captaincy-General of Venezuela, separating it from the Viceroyalty of New Granada | Economics & Trade | [Spanish Bourbon Reforms and Colonial Reorganization](economics/spanish-bourbon-reforms-1777.md) |
 | September 11, 1777 | Battle of Brandywine | Military Events | [Battle of Brandywine](military/battle-of-brandywine.md) |
 | September 19, 1777 | Battle of Freeman's Farm (First Battle of Saratoga) | Military Events | [Battles of Saratoga](military/battles-of-saratoga.md) |
 | September 23, 1777 | Mozart departs Salzburg with his mother on his European tour | Arts & Culture | [Mozart's 1777 Tour](arts/mozart-1777-tour.md) |
@@ -39,7 +40,9 @@ A chronological index of notable events, people, and works of the year 1777.
 | December 4, 1777 | News of Burgoyne's surrender at Saratoga reaches Paris, triggering French alliance negotiations | Economics & Trade | [Franco-American Diplomatic Breakthrough](economics/franco-american-diplomacy-1777.md) |
 | December 19, 1777 | Continental Army encamps at Valley Forge | Military Events | [Valley Forge](military/valley-forge.md) |
 | December 25, 1777 | Mozart completes Flute Quartet No. 1 (K. 285) in Mannheim | Arts & Culture | [Mozart's 1777 Tour](arts/mozart-1777-tour.md) |
+| December 30, 1777 | Death of Elector Maximilian Joseph III of Bavaria triggers the Bavarian succession crisis and the "Potato War" | Political Events | [Bavarian Succession Crisis and Treaty of Teschen](politics/treaty-of-teschen-1777.md) |
 | 1777 | Coulomb's prize memoir on the magnetic compass introduces the torsion balance to the Académie des Sciences | Science & Discovery | [Coulomb's Torsion Balance and Electrostatics](science/coulomb-electrostatics.md) |
+| 1777 | Laplace advances his celestial-mechanics program (precession of the equinoxes; solar-system stability), the groundwork for his later nebular hypothesis | Science & Discovery | [Laplace's Nebular Hypothesis and Cosmological Revolution](science/laplace-nebular-hypothesis-1777.md) |
 | 1777 | American privateering against British shipping reaches peak intensity; Parliament responds with the Treason (Pirate) Act | Economics & Trade | [American Privateering During the Revolutionary War](economics/american-privateering-1777.md) |
 | 1777 | Boulton and Watt complete "Old Bess" and secure Cornish mining orders | Economics & Trade | [James Watt's Steam Engine](economics/james-watt-steam-engine.md) |
 | 1777 | Catherine the Great advances Russian expansion in the Black Sea, backing Şahin Giray as a client Crimean khan | Political Events | [Catherine the Great's 1777 Diplomacy](politics/catherine-the-great-1777.md) |

@@ -81,5 +81,6 @@ Her cataloguing work was equally significant. In 1798 she published a catalogue 
 - [Lavoisier and the Oxygen Theory](lavoisier-oxygen-theory.md) — Contemporaneous revolution in systematic method in chemistry, mirroring Herschel's systematic approach in astronomy
 - [Carl Friedrich Gauss](../people/carl-friedrich-gauss.md) — Born April 30, 1777; Gauss's later mathematical work in orbital mechanics (1801) directly built on Herschel's planetary discoveries
 - [Royal Society Lightning Conductor Controversy](royal-society-lightning-controversy-1777.md) — Institutional dynamics of natural philosophy in 1777 Britain; the same Royal Society awarded Herschel the Copley Medal in 1781
+- [Laplace's Nebular Hypothesis and Cosmological Revolution](laplace-nebular-hypothesis-1777.md) — Herschel's discovery of real nebulae supplied the physical objects Laplace's cosmogonic mechanism required
 
 <!-- END GENERATED: crossrefs -->

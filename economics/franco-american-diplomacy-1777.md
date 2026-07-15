@@ -88,4 +88,6 @@ The commercial dimensions of the alliance proved significant beyond the war itse
 - [American Privateering During the Revolutionary War](american-privateering-1777.md) — the maritime campaign Franklin coordinated from Paris that pressured British commerce alongside the diplomatic effort
 - [The Marriage of Figaro (Beaumarchais)](../arts/beaumarchais-marriage-of-figaro.md) — its author ran the covert arms-supply house Rodrigue Hortalez et Compagnie, materially aiding the cause this diplomacy served
 - [Catherine the Great's 1777 Diplomacy](../politics/catherine-the-great-1777.md) — the parallel European power politics in which Russia's neutrality left France free to commit to the American cause
+- [Bavarian Succession Crisis and Treaty of Teschen](../politics/treaty-of-teschen-1777.md) — the Continental crisis that occupied Austria and Prussia while France secured its flank to intervene in America
+- [Spanish Bourbon Reforms and Colonial Reorganization](spanish-bourbon-reforms-1777.md) — Spain's fiscal preparations that helped ready it to join the war against Britain in 1779
 <!-- END GENERATED: crossrefs -->

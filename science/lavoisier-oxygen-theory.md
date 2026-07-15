@@ -57,6 +57,7 @@ The same year that Lavoisier was overturning chemistry's foundational assumption
 - [Royal Society Lightning Conductor Controversy](royal-society-lightning-controversy-1777.md) — the other major scientific episode of 1777, where Franklin's electrical theory collided with wartime politics
 - [Coulomb's Torsion Balance and Electrostatics](coulomb-electrostatics.md) — a parallel French shift from qualitative description to quantitative law, replacing the "electrical fluid" as Lavoisier displaced phlogiston
 - [William Herschel's Telescopes and Deep-Sky Observations](herschel-telescopes-deep-sky.md) — Herschel's systematic sky surveys mirrored Lavoisier's quantitative, methodical reform of natural philosophy
+- [Laplace's Nebular Hypothesis and Cosmological Revolution](laplace-nebular-hypothesis-1777.md) — the parallel replacement of qualitative cosmology with quantitative, mathematically constrained mechanics, as Lavoisier did for chemistry
 <!-- END GENERATED: crossrefs -->
 
 ## Sources
