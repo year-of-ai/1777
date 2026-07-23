@@ -14,12 +14,12 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 
 | Category | Description |
 |---|---|
-| [Political Events](politics/) | Constitutions, charters, and governance changes of 1777 |
-| [Military Events](military/) | Battles and campaigns of the American Revolutionary War and beyond |
-| [Science & Discovery](science/) | Scientific advances and explorations of 1777 |
-| [Arts & Culture](arts/) | Literature, music, and cultural works of 1777 |
-| [Economics & Trade](economics/) | Economic ideas and commercial developments of 1777 |
-| [Key Figures](people/) | Notable individuals who shaped the year 1777 |
+| [Political Events]({{ '/news/politics/' | relative_url }}) | Constitutions, charters, and governance changes of 1777 |
+| [Military Events]({{ '/news/military/' | relative_url }}) | Battles and campaigns of the American Revolutionary War and beyond |
+| [Science & Discovery]({{ '/news/science/' | relative_url }}) | Scientific advances and explorations of 1777 |
+| [Arts & Culture]({{ '/news/arts/' | relative_url }}) | Literature, music, and cultural works of 1777 |
+| [Economics & Trade]({{ '/news/economics/' | relative_url }}) | Economic ideas and commercial developments of 1777 |
+| [Key Figures]({{ '/news/people/' | relative_url }}) | Notable individuals who shaped the year 1777 |
 
 ## Notable Events of 1777
 
