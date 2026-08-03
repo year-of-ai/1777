@@ -2,11 +2,12 @@
 title: The Year 1777 — Knowledge Index
 permalink: "/knowledge-index/"
 description: The full 1777 knowledge table — every notable event, linked to its article.
+preview: /images/previews/the-year-1777-knowledge-index.svg
 ---
 
 # The Year 1777
 
-> **Status**: This repository is **mature** (generation complete — 44 dedicated topic files spanning all six categories). Successor: [year-of-ai/1778](https://github.com/year-of-ai/1778) — the year 1778.
+> **Status**: This repository is **mature** (generation complete — 47 dedicated topic files spanning all six categories). Successor: [year-of-ai/1778](https://github.com/year-of-ai/1778) — the year 1778.
 
 A self-growing, encyclopedic knowledge base covering the events, people, works, and discoveries of **1777** — the year of the Battles of Saratoga, Valley Forge, the Articles of Confederation, and the Stars and Stripes.
 
@@ -37,6 +38,9 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [British occupy Philadelphia]({{ '/news/military/british-occupation-philadelphia/' | relative_url }}) | British forces occupied Philadelphia on September 26, 1777, forcing the Continental Congress to flee, though the city's capture proved strategically hollow. |
 | [Battle of Germantown]({{ '/news/military/battle-of-germantown/' | relative_url }}) | Washington's ambitious four-column counterattack on October 4, 1777, collapsed amid fog and friendly fire, but the bold offensive impressed France and bolstered the case for alliance. |
 | [Battle of Bennington]({{ '/news/military/battle-of-bennington/' | relative_url }}) | John Stark's New England militia destroyed a German foraging detachment near Walloomsac on August 16, 1777, crippling Burgoyne's army before Saratoga. |
+| [Fort Stanwix Campaign and the Battle of Oriskany]({{ '/news/military/battle-of-oriskany/' | relative_url }}) | The August 6, 1777 ambush of a relief column, born of the Iroquois Confederacy's split after its council fire was extinguished, forced St. Leger to abandon the siege of Fort Stanwix. |
+| [Treaty of Long Island of the Holston]({{ '/news/politics/treaty-long-island-holston/' | relative_url }}) | Virginia and North Carolina's July 20, 1777 treaty ended the Cherokee War of 1776, forcing vast Cherokee land cessions and pushing Dragging Canoe's militants further west. |
+| [Siege of Fort Mifflin and the Battle of Red Bank]({{ '/news/military/fort-mifflin-red-bank/' | relative_url }}) | A repulsed Hessian assault and a massive November bombardment finally opened the Delaware River to British ships six weeks after Philadelphia's capture. |
 | [Baron Friedrich Wilhelm von Steuben]({{ '/news/people/baron-von-steuben/' | relative_url }}) | The Prussian officer, recruited in Paris, landed in America in December 1777 and from February 1778 transformed Washington's army through systematic drill; his "Blue Book" grounded American military training for over a century. |
 | [John Paul Jones and American Naval Command]({{ '/news/military/john-paul-jones-1777/' | relative_url }}) | Captain John Paul Jones's June 14, 1777 appointment to command USS Ranger — the same day as the Flag Resolution — launched professional American naval operations and established the foundational command structure of the United States Navy. |
 | [Carl Friedrich Gauss born]({{ '/news/people/carl-friedrich-gauss/' | relative_url }}) | The mathematician Carl Friedrich Gauss was born on April 30, 1777 in Brunswick — one of the most influential mathematicians in history. |

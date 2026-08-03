@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Timeline of 1777
+preview: /images/previews/timeline-of-1777.svg
 permalink: "/TIMELINE/"
 ---
 
@@ -22,8 +23,10 @@ A chronological index of notable events, people, and works of the year 1777.
 | June 14, 1777 | John Paul Jones receives his Continental Navy captain's commission, the same day as the Flag Resolution | Military Events | [John Paul Jones and American Naval Command]({{ '/news/military/john-paul-jones-1777/' | relative_url }}) |
 | July 8, 1777 | Vermont Constitution adopted | Political Events | [Vermont Constitution]({{ '/news/politics/vermont-constitution/' | relative_url }}) |
 | July 11, 1777 | Abigail Adams gives birth to a stillborn daughter, Elizabeth, at Braintree amid wartime hardship | Key Figures | [Abigail Adams]({{ '/news/people/abigail-adams/' | relative_url }}) |
+| July 20, 1777 | Virginia and North Carolina conclude the Treaty of Long Island of the Holston with the Overhill Cherokee, ending the Cherokee War of 1776 | Political Events | [Treaty of Long Island of the Holston]({{ '/news/politics/treaty-long-island-holston/' | relative_url }}) |
 | July 1777 | Hyder Ali lays siege to the Chitradurga fortress, opening a Mysore campaign in which Tipu Sultan takes part | Key Figures | [Tipu Sultan]({{ '/news/people/tipu-sultan/' | relative_url }}) |
 | August 3, 1777 | Haydn's opera buffa *Il mondo della luna* premieres at Eszterháza for Count Anton Esterházy's wedding | Arts & Culture | [Haydn's Il mondo della luna]({{ '/news/arts/haydn-il-mondo-della-luna/' | relative_url }}) |
+| August 6, 1777 | Battle of Oriskany — St. Leger's ambush of Herkimer's relief column splits the Iroquois Confederacy and dooms the siege of Fort Stanwix | Military Events | [Fort Stanwix Campaign and the Battle of Oriskany]({{ '/news/military/battle-of-oriskany/' | relative_url }}) |
 | August 16, 1777 | Battle of Bennington — Stark's militia destroy Burgoyne's foraging detachment near Walloomsac | Military Events | [Battle of Bennington]({{ '/news/military/battle-of-bennington/' | relative_url }}) |
 | August 25, 1777 | Howe's army lands at Head of Elk, Maryland, opening the Philadelphia campaign | Military Events | [Howe's 1777 Campaign Strategy]({{ '/news/military/howe-strategy-1777/' | relative_url }}) |
 | August 30, 1777 | Death of General John Clavering gives Warren Hastings a working majority on the Bengal Supreme Council | Economics & Trade | [Warren Hastings and the East India Company in 1777]({{ '/news/economics/warren-hastings-1777/' | relative_url }}) |
@@ -42,6 +45,7 @@ A chronological index of notable events, people, and works of the year 1777.
 | October 17, 1777 | Burgoyne surrenders at Saratoga | Military Events | [Battles of Saratoga]({{ '/news/military/battles-of-saratoga/' | relative_url }}) |
 | November 1, 1777 | John Paul Jones sails from Portsmouth in command of USS Ranger, bound for France | Military Events | [John Paul Jones and American Naval Command]({{ '/news/military/john-paul-jones-1777/' | relative_url }}) |
 | November 15, 1777 | Articles of Confederation adopted by Continental Congress | Political Events | [Articles of Confederation]({{ '/news/politics/articles-of-confederation/' | relative_url }}) |
+| November 15, 1777 | A massive British bombardment forces the evacuation of Fort Mifflin, ending the Delaware River forts' defense and opening the river to British supply | Military Events | [Siege of Fort Mifflin and the Battle of Red Bank]({{ '/news/military/fort-mifflin-red-bank/' | relative_url }}) |
 | December 1, 1777 | Baron von Steuben lands at Portsmouth, New Hampshire, to volunteer for the Continental Army | Key Figures | [Baron Friedrich Wilhelm von Steuben]({{ '/news/people/baron-von-steuben/' | relative_url }}) |
 | December 4, 1777 | News of Burgoyne's surrender at Saratoga reaches Paris, triggering French alliance negotiations | Economics & Trade | [Franco-American Diplomatic Breakthrough]({{ '/news/economics/franco-american-diplomacy-1777/' | relative_url }}) |
 | December 19, 1777 | Continental Army encamps at Valley Forge | Military Events | [Valley Forge]({{ '/news/military/valley-forge/' | relative_url }}) |
