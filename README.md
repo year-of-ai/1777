@@ -7,7 +7,7 @@ preview: /images/previews/the-year-1777-knowledge-index.svg
 
 # The Year 1777
 
-> **Status**: This repository is **mature** (generation complete — 47 dedicated topic files spanning all six categories). Successor: [year-of-ai/1778](https://github.com/year-of-ai/1778) — the year 1778.
+> **Status**: This repository is **mature** (generation complete — 50 dedicated topic files spanning all six categories). Successor: [year-of-ai/1778](https://github.com/year-of-ai/1778) — the year 1778.
 
 A self-growing, encyclopedic knowledge base covering the events, people, works, and discoveries of **1777** — the year of the Battles of Saratoga, Valley Forge, the Articles of Confederation, and the Stars and Stripes.
 
@@ -73,6 +73,9 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Spanish Bourbon Reforms and Colonial Reorganization]({{ '/news/economics/spanish-bourbon-reforms-1777/' | relative_url }}) | Charles III's Bourbon monarchy created the Captaincy-General of Venezuela on September 8, 1777 and consolidated the Viceroyalty of Río de la Plata, rationalizing colonial administration and trade in reforms that later helped fuel independence movements. |
 | [Bavarian Succession Crisis and Treaty of Teschen]({{ '/news/politics/treaty-of-teschen-1777/' | relative_url }}) | The death of Elector Maximilian Joseph III on December 30, 1777 triggered an Austro-Prussian contest over Bavaria; the resulting near-bloodless "Potato War" ended with the 1779 Treaty of Teschen, mediated by Catherine the Great. |
 | [Laplace's Nebular Hypothesis and Cosmological Revolution]({{ '/news/science/laplace-nebular-hypothesis-1777/' | relative_url }}) | Building on his 1770s work on the stability of the solar system, Pierre-Simon Laplace advanced the theory that the solar system condensed from a rotating cloud of gas through purely mechanical processes, without divine intervention. |
+| [General Nathanael Greene]({{ '/news/people/nathanael-greene/' | relative_url }}) | The self-taught "Fighting Quaker" covered Washington's retreats at Brandywine and Germantown in 1777, then rescued the army's logistics as Quartermaster General and devised the southern strategy of attrition that made Yorktown possible. |
+| [Battle of Monmouth]({{ '/news/military/battle-of-monmouth/' | relative_url }}) | Washington's Continental Army fought Clinton's retreating British to a draw near Freehold, New Jersey on June 28, 1778, proving that the Valley Forge winter had forged a disciplined professional force. |
+| [Election of Pope Pius VI]({{ '/news/politics/pope-pius-vi/' | relative_url }}) | Elected in 1775 after a 134-day conclave, Pius VI steered the Catholic Church through the Jesuit suppression, Josephinism, and the French Revolution across a turbulent 24-year pontificate. |
 
 ---
 
