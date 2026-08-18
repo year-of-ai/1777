@@ -76,6 +76,9 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [General Nathanael Greene]({{ '/news/people/nathanael-greene/' | relative_url }}) | The self-taught "Fighting Quaker" covered Washington's retreats at Brandywine and Germantown in 1777, then rescued the army's logistics as Quartermaster General and devised the southern strategy of attrition that made Yorktown possible. |
 | [Battle of Monmouth]({{ '/news/military/battle-of-monmouth/' | relative_url }}) | Washington's Continental Army fought Clinton's retreating British to a draw near Freehold, New Jersey on June 28, 1778, proving that the Valley Forge winter had forged a disciplined professional force. |
 | [Election of Pope Pius VI]({{ '/news/politics/pope-pius-vi/' | relative_url }}) | Elected in 1775 after a 134-day conclave, Pius VI steered the Catholic Church through the Jesuit suppression, Josephinism, and the French Revolution across a turbulent 24-year pontificate. |
+| [Gibbon's Decline and Fall of the Roman Empire]({{ '/news/arts/gibbon-decline-fall/' | relative_url }}) | Edward Gibbon's history of Rome's collapse, widely read by 1777, gave Enlightenment readers a framework for interpreting imperial decline amid Britain's American crisis. |
+| [John Jay in 1777]({{ '/news/people/john-jay/' | relative_url }}) | The New York jurist principally drafted the state constitution adopted April 20, 1777 and became the state's first chief justice. |
+| [Mercy Otis Warren]({{ '/news/people/mercy-otis-warren/' | relative_url }}) | The Massachusetts writer advanced Revolutionary ideology through satirical drama, poetry, and political correspondence with the Adamses, becoming a leading female voice of republican thought. |
 
 ---
 
