@@ -79,6 +79,8 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Gibbon's Decline and Fall of the Roman Empire]({{ '/news/arts/gibbon-decline-fall/' | relative_url }}) | Edward Gibbon's history of Rome's collapse, widely read by 1777, gave Enlightenment readers a framework for interpreting imperial decline amid Britain's American crisis. |
 | [John Jay in 1777]({{ '/news/people/john-jay/' | relative_url }}) | The New York jurist principally drafted the state constitution adopted April 20, 1777 and became the state's first chief justice. |
 | [Mercy Otis Warren]({{ '/news/people/mercy-otis-warren/' | relative_url }}) | The Massachusetts writer advanced Revolutionary ideology through satirical drama, poetry, and political correspondence with the Adamses, becoming a leading female voice of republican thought. |
+| [Joshua Reynolds's Discourses and the Grand Style]({{ '/news/arts/reynolds-discourses-grand-style/' | relative_url }}) | Royal Academy president Reynolds's neoclassical Discourses, last read in December 1776, still fixed British taste around the idealized Grand Style. |
+| [Albrecht von Haller and Experimental Physiology]({{ '/news/science/haller-physiology/' | relative_url }}) | The Swiss founder of irritability-and-sensibility physiology, Haller died in Bern on December 12, 1777, closing a landmark scientific career. |
 
 ---
 
