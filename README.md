@@ -81,6 +81,9 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Mercy Otis Warren]({{ '/news/people/mercy-otis-warren/' | relative_url }}) | The Massachusetts writer advanced Revolutionary ideology through satirical drama, poetry, and political correspondence with the Adamses, becoming a leading female voice of republican thought. |
 | [Joshua Reynolds's Discourses and the Grand Style]({{ '/news/arts/reynolds-discourses-grand-style/' | relative_url }}) | Royal Academy president Reynolds's neoclassical Discourses, last read in December 1776, still fixed British taste around the idealized Grand Style. |
 | [Albrecht von Haller and Experimental Physiology]({{ '/news/science/haller-physiology/' | relative_url }}) | The Swiss founder of irritability-and-sensibility physiology, Haller died in Bern on December 12, 1777, closing a landmark scientific career. |
+| [Thomas Chatterton's Posthumous Rowley Poems]({{ '/news/arts/chatterton-rowley-poems/' | relative_url }}) | Edited by Thomas Tyrwhitt and published February 8, 1777, Chatterton's forged medieval poems became influential in English Romantic literature. |
+| [Friedrich Maximilian Klinger's Sturm und Drang]({{ '/news/arts/klinger-sturm-und-drang/' | relative_url }}) | Klinger's turbulent play premiered April 1, 1777, giving its name to a transformative German literary movement emphasizing emotion over Enlightenment rationalism. |
+| [Petrus Camper's Comparative Anatomy and Facial Angle Studies]({{ '/news/science/camper-comparative-anatomy/' | relative_url }}) | Dutch anatomist Camper pioneered quantitative comparative anatomy in 1777 through systematic facial angle measurements, establishing methods for studying anatomical variation across species. |
 
 ---
 
