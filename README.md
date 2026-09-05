@@ -87,6 +87,9 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Thomas Chatterton's Posthumous Rowley Poems]({{ '/news/arts/chatterton-rowley-poems/' | relative_url }}) | Edited by Thomas Tyrwhitt and published February 8, 1777, Chatterton's forged medieval poems became influential in English Romantic literature. |
 | [Friedrich Maximilian Klinger's Sturm und Drang]({{ '/news/arts/klinger-sturm-und-drang/' | relative_url }}) | Klinger's turbulent play premiered April 1, 1777, giving its name to a transformative German literary movement emphasizing emotion over Enlightenment rationalism. |
 | [Petrus Camper's Comparative Anatomy and Facial Angle Studies]({{ '/news/science/camper-comparative-anatomy/' | relative_url }}) | Dutch anatomist Camper pioneered quantitative comparative anatomy in 1777 through systematic facial angle measurements, establishing methods for studying anatomical variation across species. |
+| [Battle of Princeton]({{ '/news/military/battle-of-princeton/' | relative_url }}) | Washington's dawn victory over Mawhood's brigade on January 3, 1777 capped the "ten crucial days" and revived the American cause after a winter of defeats. |
+| [Casimir Pulaski — Commander of the Continental Cavalry]({{ '/news/people/casimir-pulaski/' | relative_url }}) | The exiled Polish officer, commissioned brigadier general on September 15, 1777 after covering the retreat at Brandywine, reorganized and fathered the American cavalry. |
+| [Scheele's Chemical Treatise on Air and Fire]({{ '/news/science/scheele-air-and-fire/' | relative_url }}) | Carl Wilhelm Scheele's only book, published in 1777, described the "fire air" (oxygen) he had isolated before Priestley, a landmark of the Chemical Revolution. |
 
 ---
 
