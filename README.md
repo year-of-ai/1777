@@ -7,7 +7,7 @@ preview: /images/previews/the-year-1777-knowledge-index.svg
 
 # The Year 1777
 
-> **Status**: This repository is **mature** (generation complete — 50 dedicated topic files spanning all six categories). Successor: [year-of-ai/1778](https://github.com/year-of-ai/1778) — the year 1778.
+> **Status**: This repository is **mature** (generation complete — 69 dedicated topic files spanning all six categories: politics ×10, military ×14, science ×10, arts ×9, economics ×7, people ×19). Successor: [year-of-ai/1778](https://github.com/year-of-ai/1778) — the year 1778.
 
 A self-growing, encyclopedic knowledge base covering the events, people, works, and discoveries of **1777** — the year of the Battles of Saratoga, Valley Forge, the Articles of Confederation, and the Stars and Stripes.
 
@@ -93,6 +93,8 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Battle of Princeton]({{ '/news/military/battle-of-princeton/' | relative_url }}) | Washington's dawn victory over Mawhood's brigade on January 3, 1777 capped the "ten crucial days" and revived the American cause after a winter of defeats. |
 | [Casimir Pulaski — Commander of the Continental Cavalry]({{ '/news/people/casimir-pulaski/' | relative_url }}) | The exiled Polish officer, commissioned brigadier general on September 15, 1777 after covering the retreat at Brandywine, reorganized and fathered the American cavalry. |
 | [Scheele's Chemical Treatise on Air and Fire]({{ '/news/science/scheele-air-and-fire/' | relative_url }}) | Carl Wilhelm Scheele's only book, published in 1777, described the "fire air" (oxygen) he had isolated before Priestley, a landmark of the Chemical Revolution. |
+| [Capture of Forts Clinton and Montgomery]({{ '/news/military/hudson-river-forts/' | relative_url }}) | Henry Clinton's British force seized the Hudson Highlands forts on October 6, 1777, opening the river but arriving too late to rescue Burgoyne. |
+| [General Israel Putnam]({{ '/news/people/israel-putnam/' | relative_url }}) | The celebrated Bunker Hill veteran commanded the Hudson Valley theater in 1777, a demanding assignment marred by the fall of the Highlands forts. |
 
 ---
 
