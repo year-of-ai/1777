@@ -6,7 +6,7 @@ categories:
 tags:
   - American Revolutionary War
   - Continental Army
-  - 1777
+  - "1777"
   - Military Leadership
   - Hudson Valley
   - Bunker Hill

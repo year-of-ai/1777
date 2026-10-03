@@ -6,7 +6,7 @@ categories:
 tags:
   - American Revolutionary War
   - Hudson River Campaign
-  - 1777
+  - "1777"
   - Fort Clinton
   - Fort Montgomery
   - Henry Clinton
